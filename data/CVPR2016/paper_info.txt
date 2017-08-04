@@ -1,0 +1,1929 @@
+Deep Compositional Captioning: Describing Novel Object Categories Without Paired Training Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hendricks_Deep_Compositional_Captioning_CVPR_2016_paper.pdf
+Generation and Comprehension of Unambiguous Object Descriptions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mao_Generation_and_Comprehension_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mao_Generation_and_Comprehension_CVPR_2016_paper.pdf
+Stacked Attention Networks for Image Question Answering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Stacked_Attention_Networks_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf
+Image Question Answering Using Convolutional Neural Network With Dynamic Parameter Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Noh_Image_Question_Answering_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Noh_Image_Question_Answering_CVPR_2016_paper.pdf
+Neural Module Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Andreas_Neural_Module_Networks_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Andreas_Neural_Module_Networks_CVPR_2016_paper.pdf
+Learning Deep Representations of Fine-Grained Visual Descriptions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Reed_Learning_Deep_Representations_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Reed_Learning_Deep_Representations_CVPR_2016_paper.pdf
+Multi-Cue Zero-Shot Learning With Strong Supervision
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Akata_Multi-Cue_Zero-Shot_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Akata_Multi-Cue_Zero-Shot_Learning_CVPR_2016_paper.pdf
+Latent Embeddings for Zero-Shot Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xian_Latent_Embeddings_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xian_Latent_Embeddings_for_CVPR_2016_paper.pdf
+One-Shot Learning of Scene Locations via Feature Trajectory Transfer
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwitt_One-Shot_Learning_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kwitt_One-Shot_Learning_of_CVPR_2016_paper.pdf
+Learning Attributes Equals Multi-Source Domain Generalization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gan_Learning_Attributes_Equals_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gan_Learning_Attributes_Equals_CVPR_2016_paper.pdf
+Anticipating Visual Representations From Unlabeled Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf
+Learning to Assign Orientations to Feature Points
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yi_Learning_to_Assign_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yi_Learning_to_Assign_CVPR_2016_paper.pdf
+Learning Dense Correspondence via 3D-Guided Cycle Consistency
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Learning_Dense_Correspondence_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Dense_Correspondence_CVPR_2016_paper.pdf
+The Global Patch Collider
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_The_Global_Patch_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_The_Global_Patch_CVPR_2016_paper.pdf
+Joint Probabilistic Matching Using m-Best Solutions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rezatofighi_Joint_Probabilistic_Matching_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rezatofighi_Joint_Probabilistic_Matching_CVPR_2016_paper.pdf
+Face Alignment Across Large Poses: A 3D Solution
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Face_Alignment_Across_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Face_Alignment_Across_CVPR_2016_paper.pdf
+Interactive Segmentation on RGBD Images via Cue Selection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Feng_Interactive_Segmentation_on_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Feng_Interactive_Segmentation_on_CVPR_2016_paper.pdf
+Layered Scene Decomposition via the Occlusion-CRF
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Layered_Scene_Decomposition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Layered_Scene_Decomposition_CVPR_2016_paper.pdf
+Affinity CNN: Learning Pixel-Centric Pairwise Relations for Figure/Ground Embedding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Maire_Affinity_CNN_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Maire_Affinity_CNN_Learning_CVPR_2016_paper.pdf
+Weakly Supervised Object Boundaries
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Khoreva_Weakly_Supervised_Object_CVPR_2016_paper.pdf
+Object Contour Detection With a Fully Convolutional Encoder-Decoder Network
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Object_Contour_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Object_Contour_Detection_CVPR_2016_paper.pdf
+What Value Do Explicit High Level Concepts Have in Vision to Language Problems?
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wu_What_Value_Do_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_What_Value_Do_CVPR_2016_paper.pdf
+Fast Detection of Curved Edges at Low SNR
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ofir_Fast_Detection_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ofir_Fast_Detection_of_CVPR_2016_paper.pdf
+Object Skeleton Extraction in Natural Images by Fusing Scale-Associated Deep Side Outputs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shen_Object_Skeleton_Extraction_CVPR_2016_paper.pdf
+Learning Relaxed Deep Supervision for Better Edge Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Learning_Relaxed_Deep_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Learning_Relaxed_Deep_CVPR_2016_paper.pdf
+Occlusion Boundary Detection via Deep Exploration of Context
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fu_Occlusion_Boundary_Detection_CVPR_2016_paper.pdf
+SemiContour: A Semi-Supervised Learning Approach for Contour Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_SemiContour_A_Semi-Supervised_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_SemiContour_A_Semi-Supervised_CVPR_2016_paper.pdf
+Learning to Localize Little Landmarks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Singh_Learning_to_Localize_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Singh_Learning_to_Localize_CVPR_2016_paper.pdf
+InterActive: Inter-Layer Activeness Propagation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xie_InterActive_Inter-Layer_Activeness_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xie_InterActive_Inter-Layer_Activeness_CVPR_2016_paper.pdf
+Exploit Bounding Box Annotations for Multi-Label Object Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Exploit_Bounding_Box_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Exploit_Bounding_Box_CVPR_2016_paper.pdf
+TI-Pooling: Transformation-Invariant Pooling for Feature Learning in Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Laptev_TI-Pooling_Transformation-Invariant_Pooling_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Laptev_TI-Pooling_Transformation-Invariant_Pooling_CVPR_2016_paper.pdf
+Fashion Style in 128 Floats: Joint Ranking and Classification Using Weak Data for Feature Extraction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Simo-Serra_Fashion_Style_in_CVPR_2016_paper.pdf
+Equiangular Kernel Dictionary Learning With Applications to Dynamic Texture Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Quan_Equiangular_Kernel_Dictionary_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Quan_Equiangular_Kernel_Dictionary_CVPR_2016_paper.pdf
+Compact Bilinear Pooling
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gao_Compact_Bilinear_Pooling_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gao_Compact_Bilinear_Pooling_CVPR_2016_paper.pdf
+Accumulated Stability Voting: A Robust Descriptor From Descriptors of Multiple Scales
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Accumulated_Stability_Voting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Accumulated_Stability_Voting_CVPR_2016_paper.pdf
+CoMaL: Good Features to Match on Object Boundaries
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ravindran_CoMaL_Good_Features_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ravindran_CoMaL_Good_Features_CVPR_2016_paper.pdf
+Progressive Feature Matching With Alternate Descriptor Selection and Correspondence Enrichment
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Progressive_Feature_Matching_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Progressive_Feature_Matching_CVPR_2016_paper.pdf
+A New Finsler Minimal Path Model With Curvature Penalization for Image Segmentation and Closed Contour Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_A_New_Finsler_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_A_New_Finsler_CVPR_2016_paper.pdf
+Scale-Aware Alignment of Hierarchical Image Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Scale-Aware_Alignment_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Scale-Aware_Alignment_of_CVPR_2016_paper.pdf
+Deep Interactive Object Selection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xu_Deep_Interactive_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_Deep_Interactive_Object_CVPR_2016_paper.pdf
+Pull the Plug? Predicting If Computers or Humans Should Segment Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gurari_Pull_the_Plug_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gurari_Pull_the_Plug_CVPR_2016_paper.pdf
+In the Shadows, Shape Priors Shine: Using Occlusion to Improve Multi-Region Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kihara_In_the_Shadows_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kihara_In_the_Shadows_CVPR_2016_paper.pdf
+Convexity Shape Constraints for Image Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Royer_Convexity_Shape_Constraints_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Royer_Convexity_Shape_Constraints_CVPR_2016_paper.pdf
+MCMC Shape Sampling for Image Segmentation With Nonparametric Shape Priors
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Erdil_MCMC_Shape_Sampling_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Erdil_MCMC_Shape_Sampling_CVPR_2016_paper.pdf
+From Noise Modeling to Blind Image Denoising
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_From_Noise_Modeling_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_From_Noise_Modeling_CVPR_2016_paper.pdf
+Efficient and Robust Color Consistency for Community Photo Collections
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Park_Efficient_and_Robust_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Park_Efficient_and_Robust_CVPR_2016_paper.pdf
+Needle-Match: Reliable Patch Matching Under High Uncertainty
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lotan_Needle-Match_Reliable_Patch_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lotan_Needle-Match_Reliable_Patch_CVPR_2016_paper.pdf
+ReconNet: Non-Iterative Reconstruction of Images From Compressively Sensed Measurements
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kulkarni_ReconNet_Non-Iterative_Reconstruction_CVPR_2016_paper.pdf
+Soft-Segmentation Guided Object Motion Deblurring
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pan_Soft-Segmentation_Guided_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Soft-Segmentation_Guided_Object_CVPR_2016_paper.pdf
+Two Illuminant Estimation and User Correction Preference
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cheng_Two_Illuminant_Estimation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Two_Illuminant_Estimation_CVPR_2016_paper.pdf
+Deep Contrast Learning for Salient Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Deep_Contrast_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Deep_Contrast_Learning_CVPR_2016_paper.pdf
+Multiview Image Completion With Space Structure Propagation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Baek_Multiview_Image_Completion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Baek_Multiview_Image_Completion_CVPR_2016_paper.pdf
+Composition-Preserving Deep Photo Aesthetics Assessment
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mai_Composition-Preserving_Deep_Photo_CVPR_2016_paper.pdf
+Automatic Image Cropping : A Computational Complexity Study
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Automatic_Image_Cropping_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Automatic_Image_Cropping_CVPR_2016_paper.pdf
+A Deeper Look at Saliency: Feature Contrast, Semantics, and Beyond
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bruce_A_Deeper_Look_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bruce_A_Deeper_Look_CVPR_2016_paper.pdf
+Spatially Binned ROC: A Comprehensive Saliency Metric
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wloka_Spatially_Binned_ROC_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wloka_Spatially_Binned_ROC_CVPR_2016_paper.pdf
+GraB: Visual Saliency via Novel Graph Model and Background Priors
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_GraB_Visual_Saliency_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_GraB_Visual_Saliency_CVPR_2016_paper.pdf
+Predicting When Saliency Maps Are Accurate and Eye Fixations Consistent
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Volokitin_Predicting_When_Saliency_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Volokitin_Predicting_When_Saliency_CVPR_2016_paper.pdf
+Split and Match: Example-Based Adaptive Patch Sampling for Unsupervised Style Transfer
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Frigo_Split_and_Match_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Frigo_Split_and_Match_CVPR_2016_paper.pdf
+Detection and Accurate Localization of Circular Fiducials Under Highly Challenging Conditions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Calvet_Detection_and_Accurate_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Calvet_Detection_and_Accurate_CVPR_2016_paper.pdf
+Scene Recognition With CNNs: Objects, Scales and Dataset Bias
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Herranz_Scene_Recognition_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Herranz_Scene_Recognition_With_CVPR_2016_paper.pdf
+Learning Action Maps of Large Environments via First-Person Vision
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rhinehart_Learning_Action_Maps_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rhinehart_Learning_Action_Maps_CVPR_2016_paper.pdf
+Single-Image Crowd Counting via Multi-Column Convolutional Neural Network
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Single-Image_Crowd_Counting_CVPR_2016_paper.pdf
+Shallow and Deep Convolutional Networks for Saliency Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pan_Shallow_and_Deep_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Shallow_and_Deep_CVPR_2016_paper.pdf
+Sample and Filter: Nonparametric Scene Parsing via Efficient Filtering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Najafi_Sample_and_Filter_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Najafi_Sample_and_Filter_CVPR_2016_paper.pdf
+DeLay: Robust Spatial Layout Estimation for Cluttered Indoor Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dasgupta_DeLay_Robust_Spatial_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dasgupta_DeLay_Robust_Spatial_CVPR_2016_paper.pdf
+A Text Detection System for Natural Scenes With Convolutional Feature Learning and Cascaded Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_A_Text_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_A_Text_Detection_CVPR_2016_paper.pdf
+Reversible Recursive Instance-Level Object Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liang_Reversible_Recursive_Instance-Level_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liang_Reversible_Recursive_Instance-Level_CVPR_2016_paper.pdf
+Coherent Parametric Contours for Interactive Video Object Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lu_Coherent_Parametric_Contours_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Coherent_Parametric_Contours_CVPR_2016_paper.pdf
+Manifold SLIC: A Fast Method to Compute Content-Sensitive Superpixels
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Manifold_SLIC_A_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Manifold_SLIC_A_CVPR_2016_paper.pdf
+Deep Saliency With Encoded Low Level Distance Map and High Level Features
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lee_Deep_Saliency_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Deep_Saliency_With_CVPR_2016_paper.pdf
+Instance-Level Segmentation for Autonomous Driving With Deep Densely Connected MRFs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Instance-Level_Segmentation_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Instance-Level_Segmentation_for_CVPR_2016_paper.pdf
+DHSNet: Deep Hierarchical Saliency Network for Salient Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DHSNet_Deep_Hierarchical_CVPR_2016_paper.pdf
+Object Co-Segmentation via Graph Optimized-Flexible Manifold Ranking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Quan_Object_Co-Segmentation_via_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Quan_Object_Co-Segmentation_via_CVPR_2016_paper.pdf
+Primary Object Segmentation in Videos via Alternate Convex Optimization of Foreground and Background Distributions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jang_Primary_Object_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jang_Primary_Object_Segmentation_CVPR_2016_paper.pdf
+Automatic Fence Segmentation in Videos of Dynamic Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yi_Automatic_Fence_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yi_Automatic_Fence_Segmentation_CVPR_2016_paper.pdf
+Discovering the Physical Parts of an Articulated Object Class From Multiple Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Del_Pero_Discovering_the_Physical_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Del_Pero_Discovering_the_Physical_CVPR_2016_paper.pdf
+A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perazzi_A_Benchmark_Dataset_CVPR_2016_paper.pdf
+Learning Temporal Regularity in Video Sequences
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hasan_Learning_Temporal_Regularity_CVPR_2016_paper.pdf
+Bilateral Space Video Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Maerki_Bilateral_Space_Video_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Maerki_Bilateral_Space_Video_CVPR_2016_paper.pdf
+ReD-SFA: Relation Discovery Based Slow Feature Analysis for Trajectory Clustering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_ReD-SFA_Relation_Discovery_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_ReD-SFA_Relation_Discovery_CVPR_2016_paper.pdf
+Training Region-Based Object Detectors With Online Hard Example Mining
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shrivastava_Training_Region-Based_Object_CVPR_2016_paper.pdf
+Deep Residual Learning for Image Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf
+You Only Look Once: Unified, Real-Time Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Redmon_You_Only_Look_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf
+LocNet: Improving Localization Accuracy for Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gidaris_LocNet_Improving_Localization_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gidaris_LocNet_Improving_Localization_CVPR_2016_paper.pdf
+Sketch Me That Shoe
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yu_Sketch_Me_That_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Sketch_Me_That_CVPR_2016_paper.pdf
+Deep Sliding Shapes for Amodal 3D Object Detection in RGB-D Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Song_Deep_Sliding_Shapes_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Sliding_Shapes_CVPR_2016_paper.pdf
+Object Detection From Video Tubelets With Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kang_Object_Detection_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kang_Object_Detection_From_CVPR_2016_paper.pdf
+Learning With Side Information Through Modality Hallucination
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hoffman_Learning_With_Side_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hoffman_Learning_With_Side_CVPR_2016_paper.pdf
+Object-Proposal Evaluation Protocol is 'Gameable'
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chavali_Object-Proposal_Evaluation_Protocol_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chavali_Object-Proposal_Evaluation_Protocol_CVPR_2016_paper.pdf
+HyperNet: Towards Accurate Region Proposal Generation and Joint Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kong_HyperNet_Towards_Accurate_CVPR_2016_paper.pdf
+We Don't Need No Bounding-Boxes: Training Object Class Detectors Using Only Human Verification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Papadopoulos_We_Dont_Need_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Papadopoulos_We_Dont_Need_CVPR_2016_paper.pdf
+Factors in Finetuning Deep Model for Object Detection With Long-Tail Distribution
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ouyang_Factors_in_Finetuning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ouyang_Factors_in_Finetuning_CVPR_2016_paper.pdf
+Information-Driven Adaptive Structured-Light Scanners
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rosman_Information-Driven_Adaptive_Structured-Light_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rosman_Information-Driven_Adaptive_Structured-Light_CVPR_2016_paper.pdf
+Simultaneous Optical Flow and Intensity Estimation From an Event Camera
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bardow_Simultaneous_Optical_Flow_CVPR_2016_paper.pdf
+Macroscopic Interferometry: Rethinking Depth Estimation With Frequency-Domain Time-Of-Flight
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kadambi_Macroscopic_Interferometry_Rethinking_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kadambi_Macroscopic_Interferometry_Rethinking_CVPR_2016_paper.pdf
+ASP Vision: Optically Computing the First Layer of Convolutional Neural Networks Using Angle Sensitive Pixels
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_ASP_Vision_Optically_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_ASP_Vision_Optically_CVPR_2016_paper.pdf
+Computational Imaging for VLBI Image Reconstruction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bouman_Computational_Imaging_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bouman_Computational_Imaging_for_CVPR_2016_paper.pdf
+You Lead, We Exceed: Labor-Free Video Concept Learning by Jointly Exploiting Web Videos and Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gan_You_Lead_We_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gan_You_Lead_We_CVPR_2016_paper.pdf
+Track and Segment: An Iterative Unsupervised Approach for Video Object Proposals
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xiao_Track_and_Segment_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xiao_Track_and_Segment_CVPR_2016_paper.pdf
+Beyond Local Search: Tracking Objects Everywhere With Instance-Specific Proposals
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Beyond_Local_Search_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Beyond_Local_Search_CVPR_2016_paper.pdf
+Groupwise Tracking of Crowded Similar-Appearance Targets From Low-Continuity Image Sequences
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yu_Groupwise_Tracking_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Groupwise_Tracking_of_CVPR_2016_paper.pdf
+Social LSTM: Human Trajectory Prediction in Crowded Spaces
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Alahi_Social_LSTM_Human_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alahi_Social_LSTM_Human_CVPR_2016_paper.pdf
+What Players Do With the Ball: A Physically Constrained Interaction Modeling
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Maksai_What_Players_Do_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Maksai_What_Players_Do_CVPR_2016_paper.pdf
+Highlight Detection With Pairwise Deep Ranking for First-Person Video Summarization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yao_Highlight_Detection_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yao_Highlight_Detection_With_CVPR_2016_paper.pdf
+Direct Prediction of 3D Body Poses From Motion Compensated Sequences
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tekin_Direct_Prediction_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tekin_Direct_Prediction_of_CVPR_2016_paper.pdf
+Video2GIF: Automatic Generation of Animated GIFs From Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gygli_Video2GIF_Automatic_Generation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gygli_Video2GIF_Automatic_Generation_CVPR_2016_paper.pdf
+NTU RGB+D: A Large Scale Dataset for 3D Human Activity Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shahroudy_NTU_RGBD_A_CVPR_2016_paper.pdf
+Progressively Parsing Interactional Objects for Fine Grained Action Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ni_Progressively_Parsing_Interactional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ni_Progressively_Parsing_Interactional_CVPR_2016_paper.pdf
+Hierarchical Recurrent Neural Encoder for Video Representation With Application to Captioning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pan_Hierarchical_Recurrent_Neural_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Hierarchical_Recurrent_Neural_CVPR_2016_paper.pdf
+From Keyframes to Key Objects: Video Summarization by Representative Object Proposal Selection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Meng_From_Keyframes_to_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Meng_From_Keyframes_to_CVPR_2016_paper.pdf
+Temporal Action Localization in Untrimmed Videos via Multi-Stage CNNs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shou_Temporal_Action_Localization_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shou_Temporal_Action_Localization_CVPR_2016_paper.pdf
+Summary Transfer: Exemplar-Based Subset Selection for Video Summarization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Summary_Transfer_Exemplar-Based_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Summary_Transfer_Exemplar-Based_CVPR_2016_paper.pdf
+POD: Discovering Primary Objects in Videos Based on Evolutionary Refinement of Object Recurrence, Background, and Primary Object Models
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Koh_POD_Discovering_Primary_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Koh_POD_Discovering_Primary_CVPR_2016_paper.pdf
+What If We Do Not Have Multiple Videos of the Same Action? -- Video Action Localization Using Web Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sultani_What_If_We_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sultani_What_If_We_CVPR_2016_paper.pdf
+Beyond F-Formations: Determining Social Involvement in Free Standing Conversing Groups From Static Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Beyond_F-Formations_Determining_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Beyond_F-Formations_Determining_CVPR_2016_paper.pdf
+DeepFashion: Powering Robust Clothes Recognition and Retrieval With Rich Annotations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf
+SketchNet: Sketch Classification With Web Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_SketchNet_Sketch_Classification_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_SketchNet_Sketch_Classification_CVPR_2016_paper.pdf
+Embedding Label Structures for Fine-Grained Feature Representation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Embedding_Label_Structures_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Embedding_Label_Structures_CVPR_2016_paper.pdf
+Fine-Grained Image Classification by Exploring Bipartite-Graph Labels
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Fine-Grained_Image_Classification_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Fine-Grained_Image_Classification_CVPR_2016_paper.pdf
+Picking Deep Filter Responses for Fine-Grained Image Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Picking_Deep_Filter_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Picking_Deep_Filter_CVPR_2016_paper.pdf
+SPDA-CNN: Unifying Semantic Part Detection and Abstraction for Fine-Grained Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_SPDA-CNN_Unifying_Semantic_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_SPDA-CNN_Unifying_Semantic_CVPR_2016_paper.pdf
+Fine-Grained Categorization and Dataset Bootstrapping Using Deep Metric Learning With Humans in the Loop
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cui_Fine-Grained_Categorization_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_Fine-Grained_Categorization_and_CVPR_2016_paper.pdf
+Mining Discriminative Triplets of Patches for Fine-Grained Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Mining_Discriminative_Triplets_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Mining_Discriminative_Triplets_CVPR_2016_paper.pdf
+Part-Stacked CNN for Fine-Grained Visual Categorization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Part-Stacked_CNN_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Part-Stacked_CNN_for_CVPR_2016_paper.pdf
+Learning Compact Binary Descriptors With Unsupervised Deep Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lin_Learning_Compact_Binary_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Learning_Compact_Binary_CVPR_2016_paper.pdf
+Solving Small-Piece Jigsaw Puzzles by Growing Consensus
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Son_Solving_Small-Piece_Jigsaw_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Son_Solving_Small-Piece_Jigsaw_CVPR_2016_paper.pdf
+Pairwise Matching Through Max-Weight Bipartite Belief Propagation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Pairwise_Matching_Through_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Pairwise_Matching_Through_CVPR_2016_paper.pdf
+Structured Feature Similarity With Explicit Feature Map
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kobayashi_Structured_Feature_Similarity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kobayashi_Structured_Feature_Similarity_CVPR_2016_paper.pdf
+Temporal Epipolar Regions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dar_Temporal_Epipolar_Regions_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dar_Temporal_Epipolar_Regions_CVPR_2016_paper.pdf
+Recurrent Attention Models for Depth-Based Person Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Haque_Recurrent_Attention_Models_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Haque_Recurrent_Attention_Models_CVPR_2016_paper.pdf
+Learning a Discriminative Null Space for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Learning_a_Discriminative_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Learning_a_Discriminative_CVPR_2016_paper.pdf
+Learning Deep Feature Representations With Domain Guided Dropout for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xiao_Learning_Deep_Feature_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xiao_Learning_Deep_Feature_CVPR_2016_paper.pdf
+How Far Are We From Solving Pedestrian Detection?
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_How_Far_Are_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_How_Far_Are_CVPR_2016_paper.pdf
+Similarity Learning With Spatial Constraints for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Similarity_Learning_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Similarity_Learning_With_CVPR_2016_paper.pdf
+Sample-Specific SVM Learning for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Sample-Specific_SVM_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Sample-Specific_SVM_Learning_CVPR_2016_paper.pdf
+Joint Learning of Single-Image and Cross-Image Representations for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Joint_Learning_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Joint_Learning_of_CVPR_2016_paper.pdf
+A Multi-Level Contextual Model For Person Recognition in Photo Albums
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_A_Multi-Level_Contextual_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_A_Multi-Level_Contextual_CVPR_2016_paper.pdf
+Unsupervised Cross-Dataset Transfer Learning for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Peng_Unsupervised_Cross-Dataset_Transfer_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Peng_Unsupervised_Cross-Dataset_Transfer_CVPR_2016_paper.pdf
+Pedestrian Detection Inspired by Appearance Constancy and Shape Symmetry
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cao_Pedestrian_Detection_Inspired_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cao_Pedestrian_Detection_Inspired_CVPR_2016_paper.pdf
+Recurrent Convolutional Network for Video-Based Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/McLaughlin_Recurrent_Convolutional_Network_CVPR_2016_paper.pdf
+Person Re-Identification by Multi-Channel Parts-Based CNN With Improved Triplet Loss Function
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cheng_Person_Re-Identification_by_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Person_Re-Identification_by_CVPR_2016_paper.pdf
+Top-Push Video-Based Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/You_Top-Push_Video-Based_Person_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/You_Top-Push_Video-Based_Person_CVPR_2016_paper.pdf
+Improving Person Re-Identification via Pose-Aware Multi-Shot Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cho_Improving_Person_Re-Identification_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cho_Improving_Person_Re-Identification_CVPR_2016_paper.pdf
+Hierarchical Gaussian Descriptor for Person Re-Identification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Matsukawa_Hierarchical_Gaussian_Descriptor_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Matsukawa_Hierarchical_Gaussian_Descriptor_CVPR_2016_paper.pdf
+STCT: Sequentially Training Convolutional Networks for Visual Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_STCT_Sequentially_Training_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_STCT_Sequentially_Training_CVPR_2016_paper.pdf
+Determining Occlusions From Space and Time Image Reconstructions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Perez-Rua_Determining_Occlusions_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perez-Rua_Determining_Occlusions_From_CVPR_2016_paper.pdf
+Online Multi-Object Tracking via Structural Constraint Event Aggregation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yoon_Online_Multi-Object_Tracking_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoon_Online_Multi-Object_Tracking_CVPR_2016_paper.pdf
+Staple: Complementary Learners for Real-Time Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bertinetto_Staple_Complementary_Learners_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bertinetto_Staple_Complementary_Learners_CVPR_2016_paper.pdf
+Robust Optical Flow Estimation of Double-Layer Images Under Transparency or Reflection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Robust_Optical_Flow_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Robust_Optical_Flow_CVPR_2016_paper.pdf
+Siamese Instance Search for Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tao_Siamese_Instance_Search_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tao_Siamese_Instance_Search_CVPR_2016_paper.pdf
+Adaptive Decontamination of the Training Set: A Unified Formulation for Discriminative Visual Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Danelljan_Adaptive_Decontamination_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Danelljan_Adaptive_Decontamination_of_CVPR_2016_paper.pdf
+3D Part-Based Sparse Tracker With Automatic Synchronization and Registration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bibi_3D_Part-Based_Sparse_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bibi_3D_Part-Based_Sparse_CVPR_2016_paper.pdf
+Recurrently Target-Attending Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cui_Recurrently_Target-Attending_Tracking_CVPR_2016_paper.pdf
+Structured Regression Gradient Boosting
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Diego_Structured_Regression_Gradient_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Diego_Structured_Regression_Gradient_CVPR_2016_paper.pdf
+Loss Functions for Top-k Error: Analysis and Insights
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lapin_Loss_Functions_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lapin_Loss_Functions_for_CVPR_2016_paper.pdf
+Metric Learning as Convex Combinations of Local Models With Generalization Guarantees
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zantedeschi_Metric_Learning_as_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zantedeschi_Metric_Learning_as_CVPR_2016_paper.pdf
+Efficient Training of Very Deep Neural Networks for Supervised Hashing
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Efficient_Training_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Efficient_Training_of_CVPR_2016_paper.pdf
+Information Bottleneck Learning Using Privileged Information for Visual Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Motiian_Information_Bottleneck_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Motiian_Information_Bottleneck_Learning_CVPR_2016_paper.pdf
+3D Action Recognition From Novel Viewpoints
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rahmani_3D_Action_Recognition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rahmani_3D_Action_Recognition_CVPR_2016_paper.pdf
+3D Shape Attributes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fouhey_3D_Shape_Attributes_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fouhey_3D_Shape_Attributes_CVPR_2016_paper.pdf
+Three-Dimensional Object Detection and Layout Prediction Using Clouds of Oriented Gradients
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ren_Three-Dimensional_Object_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ren_Three-Dimensional_Object_Detection_CVPR_2016_paper.pdf
+3D Semantic Parsing of Large-Scale Indoor Spaces
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Armeni_3D_Semantic_Parsing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Armeni_3D_Semantic_Parsing_CVPR_2016_paper.pdf
+Dense Human Body Correspondences Using Convolutional Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wei_Dense_Human_Body_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wei_Dense_Human_Body_CVPR_2016_paper.pdf
+Geometry-Informed Material Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/DeGol_Geometry-Informed_Material_Recognition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/DeGol_Geometry-Informed_Material_Recognition_CVPR_2016_paper.pdf
+Towards Open Set Deep Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bendale_Towards_Open_Set_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf
+What's Wrong With That Object? Identifying Images of Unusual Objects by Modelling the Detection Score Distribution
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Whats_Wrong_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Whats_Wrong_With_CVPR_2016_paper.pdf
+Large-Scale Location Recognition and the Geometric Burstiness Problem
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sattler_Large-Scale_Location_Recognition_CVPR_2016_paper.pdf
+Regularity-Driven Facade Matching Between Aerial and Street Views
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wolff_Regularity-Driven_Facade_Matching_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wolff_Regularity-Driven_Facade_Matching_CVPR_2016_paper.pdf
+Do Computational Models Differ Systematically From Human Object Perception?
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pramod_Do_Computational_Models_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pramod_Do_Computational_Models_CVPR_2016_paper.pdf
+Contour Detection in Unstructured 3D Point Clouds
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hackel_Contour_Detection_in_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hackel_Contour_Detection_in_CVPR_2016_paper.pdf
+Unsupervised Learning of Edges
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Unsupervised_Learning_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Unsupervised_Learning_of_CVPR_2016_paper.pdf
+Blind Image Deblurring Using Dark Channel Prior
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pan_Blind_Image_Deblurring_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Blind_Image_Deblurring_CVPR_2016_paper.pdf
+Deeply-Recursive Convolutional Network for Image Super-Resolution
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Deeply-Recursive_Convolutional_Network_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Deeply-Recursive_Convolutional_Network_CVPR_2016_paper.pdf
+Accurate Image Super-Resolution Using Very Deep Convolutional Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Accurate_Image_Super-Resolution_CVPR_2016_paper.pdf
+RAW Image Reconstruction Using a Self-Contained sRGB-JPEG Image With Only 64 KB Overhead
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Nguyen_RAW_Image_Reconstruction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nguyen_RAW_Image_Reconstruction_CVPR_2016_paper.pdf
+Group MAD Competition - A New Methodology to Compare Objective Image Quality Models
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ma_Group_MAD_Competition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ma_Group_MAD_Competition_CVPR_2016_paper.pdf
+Non-Local Image Dehazing
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Berman_Non-Local_Image_Dehazing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Berman_Non-Local_Image_Dehazing_CVPR_2016_paper.pdf
+A Holistic Approach to Cross-Channel Image Noise Modeling and Its Application to Image Denoising
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Nam_A_Holistic_Approach_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_A_Holistic_Approach_CVPR_2016_paper.pdf
+Multispectral Images Denoising by Intrinsic Tensor Sparsity Regularization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xie_Multispectral_Images_Denoising_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xie_Multispectral_Images_Denoising_CVPR_2016_paper.pdf
+A Comparative Study for Single Image Blind Deblurring
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lai_A_Comparative_Study_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lai_A_Comparative_Study_CVPR_2016_paper.pdf
+Spatiotemporal Bundle Adjustment for Dynamic 3D Reconstruction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vo_Spatiotemporal_Bundle_Adjustment_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vo_Spatiotemporal_Bundle_Adjustment_CVPR_2016_paper.pdf
+Inextensible Non-Rigid Shape-From-Motion by Second-Order Cone Programming
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chhatkuli_Inextensible_Non-Rigid_Shape-From-Motion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chhatkuli_Inextensible_Non-Rigid_Shape-From-Motion_CVPR_2016_paper.pdf
+Optimal Relative Pose With Unknown Correspondences
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf
+Homography Estimation From the Common Self-Polar Triangle of Separate Ellipses
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Homography_Estimation_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Homography_Estimation_From_CVPR_2016_paper.pdf
+Heterogeneous Light Fields
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Diebold_Heterogeneous_Light_Fields_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Diebold_Heterogeneous_Light_Fields_CVPR_2016_paper.pdf
+A Consensus-Based Framework for Distributed Bundle Adjustment
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Eriksson_A_Consensus-Based_Framework_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Eriksson_A_Consensus-Based_Framework_CVPR_2016_paper.pdf
+Globally Optimal Manhattan Frame Estimation in Real-Time
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf
+Mirror Surface Reconstruction Under an Uncalibrated Camera
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Han_Mirror_Surface_Reconstruction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Han_Mirror_Surface_Reconstruction_CVPR_2016_paper.pdf
+A Hole Filling Approach Based on Background Reconstruction for View Synthesis in 3D Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Luo_A_Hole_Filling_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Luo_A_Hole_Filling_CVPR_2016_paper.pdf
+A Direct Least-Squares Solution to the PnP Problem With Unknown Focal Length
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zheng_A_Direct_Least-Squares_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zheng_A_Direct_Least-Squares_CVPR_2016_paper.pdf
+Efficient Intersection of Three Quadrics and Applications in Computer Vision
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kukelova_Efficient_Intersection_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kukelova_Efficient_Intersection_of_CVPR_2016_paper.pdf
+Using Spatial Order to Boost the Elimination of Incorrect Feature Matches
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Talker_Using_Spatial_Order_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Talker_Using_Spatial_Order_CVPR_2016_paper.pdf
+A Probabilistic Framework for Color-Based Point Set Registration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Danelljan_A_Probabilistic_Framework_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Danelljan_A_Probabilistic_Framework_CVPR_2016_paper.pdf
+Blind Image Deconvolution by Automatic Gradient Activation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gong_Blind_Image_Deconvolution_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gong_Blind_Image_Deconvolution_CVPR_2016_paper.pdf
+PSyCo: Manifold Span Reduction for Super Resolution
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Perez-Pellitero_PSyCo_Manifold_Span_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Perez-Pellitero_PSyCo_Manifold_Span_CVPR_2016_paper.pdf
+Parametric Object Motion From Blur
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gast_Parametric_Object_Motion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gast_Parametric_Object_Motion_CVPR_2016_paper.pdf
+Image Deblurring Using Smartphone Inertial Sensors
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Image_Deblurring_Using_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Image_Deblurring_Using_CVPR_2016_paper.pdf
+Seven Ways to Improve Example-Based Single Image Super Resolution
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Timofte_Seven_Ways_to_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Timofte_Seven_Ways_to_CVPR_2016_paper.pdf
+Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shi_Real-Time_Single_Image_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Real-Time_Single_Image_CVPR_2016_paper.pdf
+They Are Not Equally Reliable: Semantic Event Search Using Differentiated Concept Classifiers
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chang_They_Are_Not_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chang_They_Are_Not_CVPR_2016_paper.pdf
+Going Deeper into First-Person Activity Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ma_Going_Deeper_into_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ma_Going_Deeper_into_CVPR_2016_paper.pdf
+Cascaded Interactional Targeting Network for Egocentric Video Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Cascaded_Interactional_Targeting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Cascaded_Interactional_Targeting_CVPR_2016_paper.pdf
+Fast Temporal Activity Proposals for Efficient Detection of Human Actions in Untrimmed Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heilbron_Fast_Temporal_Activity_CVPR_2016_paper.pdf
+Discriminative Hierarchical Rank Pooling for Activity Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fernando_Discriminative_Hierarchical_Rank_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fernando_Discriminative_Hierarchical_Rank_CVPR_2016_paper.pdf
+Convolutional Two-Stream Network Fusion for Video Action Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Feichtenhofer_Convolutional_Two-Stream_Network_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Feichtenhofer_Convolutional_Two-Stream_Network_CVPR_2016_paper.pdf
+Learning Activity Progression in LSTMs for Activity Detection and Early Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ma_Learning_Activity_Progression_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ma_Learning_Activity_Progression_CVPR_2016_paper.pdf
+VLAD3: Encoding Dynamics of Deep Features for Action Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_VLAD3_Encoding_Dynamics_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_VLAD3_Encoding_Dynamics_CVPR_2016_paper.pdf
+A Multi-Stream Bi-Directional Recurrent Neural Network for Fine-Grained Action Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Singh_A_Multi-Stream_Bi-Directional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Singh_A_Multi-Stream_Bi-Directional_CVPR_2016_paper.pdf
+A Hierarchical Deep Temporal Model for Group Activity Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ibrahim_A_Hierarchical_Deep_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ibrahim_A_Hierarchical_Deep_CVPR_2016_paper.pdf
+A Hierarchical Pose-Based Approach to Complex Action Understanding Using Dictionaries of Actionlets and Motion Poselets
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lillo_A_Hierarchical_Pose-Based_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lillo_A_Hierarchical_Pose-Based_CVPR_2016_paper.pdf
+A Key Volume Mining Deep Framework for Action Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_A_Key_Volume_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_A_Key_Volume_CVPR_2016_paper.pdf
+Improved Hamming Distance Search Using Variable Length Substrings
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ong_Improved_Hamming_Distance_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ong_Improved_Hamming_Distance_CVPR_2016_paper.pdf
+Shortlist Selection With Residual-Aware Distance Estimator for K-Nearest Neighbor Search
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Heo_Shortlist_Selection_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heo_Shortlist_Selection_With_CVPR_2016_paper.pdf
+Supervised Quantization for Similarity Search
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Supervised_Quantization_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Supervised_Quantization_for_CVPR_2016_paper.pdf
+Efficient Large-Scale Approximate Nearest Neighbor Search on the GPU
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wieschollek_Efficient_Large-Scale_Approximate_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wieschollek_Efficient_Large-Scale_Approximate_CVPR_2016_paper.pdf
+Collaborative Quantization for Cross-Modal Similarity Search
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Collaborative_Quantization_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Collaborative_Quantization_for_CVPR_2016_paper.pdf
+Aggregating Image and Text Quantized Correlated Components
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tran_Aggregating_Image_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tran_Aggregating_Image_and_CVPR_2016_paper.pdf
+Efficient Indexing of Billion-Scale Datasets of Deep Descriptors
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Babenko_Efficient_Indexing_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Babenko_Efficient_Indexing_of_CVPR_2016_paper.pdf
+Deep Supervised Hashing for Fast Image Retrieval
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Supervised_Hashing_CVPR_2016_paper.pdf
+Efficient Large-Scale Similarity Search Using Matrix Factorization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Iscen_Efficient_Large-Scale_Similarity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Iscen_Efficient_Large-Scale_Similarity_CVPR_2016_paper.pdf
+Incremental Object Discovery in Time-Varying Image Collections
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kontogianni_Incremental_Object_Discovery_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kontogianni_Incremental_Object_Discovery_CVPR_2016_paper.pdf
+Detecting Migrating Birds at Night
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Detecting_Migrating_Birds_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Detecting_Migrating_Birds_CVPR_2016_paper.pdf
+When Naive Bayes Nearest Neighbors Meet Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kuzborskij_When_Naive_Bayes_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuzborskij_When_Naive_Bayes_CVPR_2016_paper.pdf
+Traffic-Sign Detection and Classification in the Wild
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Traffic-Sign_Detection_and_CVPR_2016_paper.pdf
+Large Scale Semi-Supervised Object Detection Using Visual and Semantic Knowledge Transfer
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tang_Large_Scale_Semi-Supervised_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tang_Large_Scale_Semi-Supervised_CVPR_2016_paper.pdf
+Exploit All the Layers: Fast and Accurate CNN Object Detector With Scale Dependent Pooling and Cascaded Rejection Classifiers
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Exploit_All_the_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Exploit_All_the_CVPR_2016_paper.pdf
+Dictionary Pair Classifier Driven Convolutional Neural Networks for Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Dictionary_Pair_Classifier_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Dictionary_Pair_Classifier_CVPR_2016_paper.pdf
+Monocular 3D Object Detection for Autonomous Driving
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Monocular_3D_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Monocular_3D_Object_CVPR_2016_paper.pdf
+How Hard Can It Be? Estimating the Difficulty of Visual Search in an Image
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ionescu_How_Hard_Can_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ionescu_How_Hard_Can_CVPR_2016_paper.pdf
+Deep Relative Distance Learning: Tell the Difference Between Similar Vehicles
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Deep_Relative_Distance_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Deep_Relative_Distance_CVPR_2016_paper.pdf
+Eye Tracking for Everyone
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Krafka_Eye_Tracking_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Krafka_Eye_Tracking_for_CVPR_2016_paper.pdf
+Efficient Globally Optimal 2D-To-3D Deformable Shape Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lahner_Efficient_Globally_Optimal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lahner_Efficient_Globally_Optimal_CVPR_2016_paper.pdf
+Ambiguity Helps: Classification With Disagreements in Crowdsourced Annotations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sharmanska_Ambiguity_Helps_Classification_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sharmanska_Ambiguity_Helps_Classification_CVPR_2016_paper.pdf
+A Task-Oriented Approach for Cost-Sensitive Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mottaghi_A_Task-Oriented_Approach_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mottaghi_A_Task-Oriented_Approach_CVPR_2016_paper.pdf
+Refining Architectures of Deep Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shankar_Refining_Architectures_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shankar_Refining_Architectures_of_CVPR_2016_paper.pdf
+iLab-20M: A Large-Scale Controlled Object Dataset to Investigate Deep Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Borji_iLab-20M_A_Large-Scale_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Borji_iLab-20M_A_Large-Scale_CVPR_2016_paper.pdf
+Recursive Recurrent Nets With Attention Modeling for OCR in the Wild
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Recursive_Recurrent_Nets_CVPR_2016_paper.pdf
+Deep Decision Network for Multi-Class Image Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Murthy_Deep_Decision_Network_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Murthy_Deep_Decision_Network_CVPR_2016_paper.pdf
+Less Is More: Zero-Shot Learning From Online Textual Documents With Noise Suppression
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qiao_Less_Is_More_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qiao_Less_Is_More_CVPR_2016_paper.pdf
+Fast Algorithms for Linear and Kernel SVM+
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Fast_Algorithms_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Fast_Algorithms_for_CVPR_2016_paper.pdf
+Hierarchically Gated Deep Networks for Semantic Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qi_Hierarchically_Gated_Deep_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qi_Hierarchically_Gated_Deep_CVPR_2016_paper.pdf
+Deep Structured Scene Parsing by Learning With Image Descriptions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lin_Deep_Structured_Scene_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Deep_Structured_Scene_CVPR_2016_paper.pdf
+CNN-RNN: A Unified Framework for Multi-Label Image Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.pdf
+Walk and Learn: Facial Attribute Representation Learning From Egocentric Video and Contextual Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Walk_and_Learn_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Walk_and_Learn_CVPR_2016_paper.pdf
+CNN-N-Gram for Handwriting Word Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Poznanski_CNN-N-Gram_for_Handwriting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Poznanski_CNN-N-Gram_for_Handwriting_CVPR_2016_paper.pdf
+Synthetic Data for Text Localisation in Natural Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gupta_Synthetic_Data_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Synthetic_Data_for_CVPR_2016_paper.pdf
+End-To-End People Detection in Crowded Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Stewart_End-To-End_People_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Stewart_End-To-End_People_Detection_CVPR_2016_paper.pdf
+Real-Time Salient Object Detection With a Minimum Spanning Tree
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tu_Real-Time_Salient_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tu_Real-Time_Salient_Object_CVPR_2016_paper.pdf
+Local Background Enclosure for RGB-D Salient Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Feng_Local_Background_Enclosure_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Feng_Local_Background_Enclosure_CVPR_2016_paper.pdf
+Adaptive Object Detection Using Adjacency and Zoom Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lu_Adaptive_Object_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Adaptive_Object_Detection_CVPR_2016_paper.pdf
+Semantic Channels for Fast Pedestrian Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Costea_Semantic_Channels_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Costea_Semantic_Channels_for_CVPR_2016_paper.pdf
+G-CNN: An Iterative Grid Based Object Detector
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Najibi_G-CNN_An_Iterative_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Najibi_G-CNN_An_Iterative_CVPR_2016_paper.pdf
+Recurrent Face Aging
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Recurrent_Face_Aging_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Recurrent_Face_Aging_CVPR_2016_paper.pdf
+Face2Face: Real-Time Face Capture and Reenactment of RGB Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Thies_Face2Face_Real-Time_Face_CVPR_2016_paper.pdf
+Self-Adaptive Matrix Completion for Heart Rate Estimation From Face Videos Under Realistic Conditions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tulyakov_Self-Adaptive_Matrix_Completion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tulyakov_Self-Adaptive_Matrix_Completion_CVPR_2016_paper.pdf
+Visually Indicated Sounds
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.pdf
+Image Style Transfer Using Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf
+Patch-Based Convolutional Neural Network for Whole Slide Tissue Image Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hou_Patch-Based_Convolutional_Neural_CVPR_2016_paper.pdf
+Hedgehog Shape Priors for Multi-Object Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Isack_Hedgehog_Shape_Priors_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Isack_Hedgehog_Shape_Priors_CVPR_2016_paper.pdf
+Latent Variable Graphical Model Selection Using Harmonic Analysis: Applications to the Human Connectome Project (HCP)
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Latent_Variable_Graphical_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Latent_Variable_Graphical_CVPR_2016_paper.pdf
+Simultaneous Estimation of Near IR BRDF and Fine-Scale Surface Geometry
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Choe_Simultaneous_Estimation_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choe_Simultaneous_Estimation_of_CVPR_2016_paper.pdf
+Do It Yourself Hyperspectral Imaging With Everyday Digital Cameras
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Oh_Do_It_Yourself_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Oh_Do_It_Yourself_CVPR_2016_paper.pdf
+Automatic Content-Aware Color and Tone Stylization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Automatic_Content-Aware_Color_CVPR_2016_paper.pdf
+Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Combining_Markov_Random_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Combining_Markov_Random_CVPR_2016_paper.pdf
+DCAN: Deep Contour-Aware Networks for Accurate Gland Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_DCAN_Deep_Contour-Aware_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_DCAN_Deep_Contour-Aware_CVPR_2016_paper.pdf
+Learning to Read Chest X-Rays: Recurrent Neural Cascade Model for Automated Image Annotation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shin_Learning_to_Read_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shin_Learning_to_Read_CVPR_2016_paper.pdf
+Conformal Surface Alignment With Optimal Mobius Search
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Le_Conformal_Surface_Alignment_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Le_Conformal_Surface_Alignment_CVPR_2016_paper.pdf
+Coupled Harmonic Bases for Longitudinal Characterization of Brain Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hwang_Coupled_Harmonic_Bases_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hwang_Coupled_Harmonic_Bases_CVPR_2016_paper.pdf
+Automating Carotid Intima-Media Thickness Video Interpretation With Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shin_Automating_Carotid_Intima-Media_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shin_Automating_Carotid_Intima-Media_CVPR_2016_paper.pdf
+Context Encoders: Feature Learning by Inpainting
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pathak_Context_Encoders_Feature_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pathak_Context_Encoders_Feature_CVPR_2016_paper.pdf
+Comparative Deep Learning of Hybrid Representations for Image Recommendations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lei_Comparative_Deep_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lei_Comparative_Deep_Learning_CVPR_2016_paper.pdf
+Fast ConvNets Using Group-Wise Brain Damage
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lebedev_Fast_ConvNets_Using_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lebedev_Fast_ConvNets_Using_CVPR_2016_paper.pdf
+Learning to Co-Generate Object Proposals With a Deep Structured Network
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hayder_Learning_to_Co-Generate_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hayder_Learning_to_Co-Generate_CVPR_2016_paper.pdf
+DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf
+Blockout: Dynamic Model Selection for Hierarchical Deep Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Murdock_Blockout_Dynamic_Model_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Murdock_Blockout_Dynamic_Model_CVPR_2016_paper.pdf
+FireCaffe: Near-Linear Acceleration of Deep Neural Network Training on Compute Clusters
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Iandola_FireCaffe_Near-Linear_Acceleration_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Iandola_FireCaffe_Near-Linear_Acceleration_CVPR_2016_paper.pdf
+MDL-CW: A Multimodal Deep Learning Framework With Cross Weights
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rastegar_MDL-CW_A_Multimodal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rastegar_MDL-CW_A_Multimodal_CVPR_2016_paper.pdf
+Structured Receptive Fields in CNNs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jacobsen_Structured_Receptive_Fields_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jacobsen_Structured_Receptive_Fields_CVPR_2016_paper.pdf
+First Person Action Recognition Using Deep Learned Descriptors
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Singh_First_Person_Action_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Singh_First_Person_Action_CVPR_2016_paper.pdf
+Recognizing Micro-Actions and Reactions From Paired Egocentric Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yonetani_Recognizing_Micro-Actions_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yonetani_Recognizing_Micro-Actions_and_CVPR_2016_paper.pdf
+Mining 3D Key-Pose-Motifs for Action Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Mining_3D_Key-Pose-Motifs_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Mining_3D_Key-Pose-Motifs_CVPR_2016_paper.pdf
+Predicting the Where and What of Actors and Actions Through Online Action Localization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Soomro_Predicting_the_Where_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Soomro_Predicting_the_Where_CVPR_2016_paper.pdf
+Actions ~ Transformations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Actions__Transformations_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Actions__Transformations_CVPR_2016_paper.pdf
+Visual Path Prediction in Complex Scenes With Crowded Moving Objects
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yoo_Visual_Path_Prediction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yoo_Visual_Path_Prediction_CVPR_2016_paper.pdf
+End-To-End Learning of Action Detection From Frame Glimpses in Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yeung_End-To-End_Learning_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yeung_End-To-End_Learning_of_CVPR_2016_paper.pdf
+Action Recognition in Video Using Sparse Coding and Relative Features
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Alfaro_Action_Recognition_in_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alfaro_Action_Recognition_in_CVPR_2016_paper.pdf
+Improving Human Action Recognition by Non-Action Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Improving_Human_Action_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Improving_Human_Action_CVPR_2016_paper.pdf
+Actionness Estimation Using Hybrid Fully Convolutional Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Actionness_Estimation_Using_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Actionness_Estimation_Using_CVPR_2016_paper.pdf
+Real-Time Action Recognition With Enhanced Motion Vector CNNs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Real-Time_Action_Recognition_CVPR_2016_paper.pdf
+Laplacian Patch-Based Image Synthesis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lee_Laplacian_Patch-Based_Image_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Laplacian_Patch-Based_Image_CVPR_2016_paper.pdf
+Rain Streak Removal Using Layer Priors
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Rain_Streak_Removal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Rain_Streak_Removal_CVPR_2016_paper.pdf
+Gradient-Domain Image Reconstruction Framework With Intensity-Range and Base-Structure Constraints
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shibata_Gradient-Domain_Image_Reconstruction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shibata_Gradient-Domain_Image_Reconstruction_CVPR_2016_paper.pdf
+Removing Clouds and Recovering Ground Observations in Satellite Image Sequences via Temporally Contiguous Robust Matrix Completion
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Removing_Clouds_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Removing_Clouds_and_CVPR_2016_paper.pdf
+D3: Deep Dual-Domain Based Fast Restoration of JPEG-Compressed Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_D3_Deep_Dual-Domain_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_D3_Deep_Dual-Domain_CVPR_2016_paper.pdf
+From Bows to Arrows: Rolling Shutter Rectification of Urban Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rengarajan_From_Bows_to_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rengarajan_From_Bows_to_CVPR_2016_paper.pdf
+A Weighted Variational Model for Simultaneous Reflectance and Illumination Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fu_A_Weighted_Variational_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fu_A_Weighted_Variational_CVPR_2016_paper.pdf
+Visualizing and Understanding Deep Texture Representations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lin_Visualizing_and_Understanding_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Visualizing_and_Understanding_CVPR_2016_paper.pdf
+Robust Kernel Estimation With Outliers Handling for Image Deblurring
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pan_Robust_Kernel_Estimation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Robust_Kernel_Estimation_CVPR_2016_paper.pdf
+Online Collaborative Learning for Open-Vocabulary Visual Classifiers
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Online_Collaborative_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Online_Collaborative_Learning_CVPR_2016_paper.pdf
+Rethinking the Inception Architecture for Computer Vision
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Szegedy_Rethinking_the_Inception_CVPR_2016_paper.pdf
+Cross Modal Distillation for Supervision Transfer
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gupta_Cross_Modal_Distillation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Cross_Modal_Distillation_CVPR_2016_paper.pdf
+Efficient Point Process Inference for Large-Scale Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pham_Efficient_Point_Process_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pham_Efficient_Point_Process_CVPR_2016_paper.pdf
+Weakly Supervised Deep Detection Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bilen_Weakly_Supervised_Deep_CVPR_2016_paper.pdf
+BORDER: An Oriented Rectangles Approach to Texture-Less Object Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chan_BORDER_An_Oriented_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chan_BORDER_An_Oriented_CVPR_2016_paper.pdf
+Active Image Segmentation Propagation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jain_Active_Image_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Active_Image_Segmentation_CVPR_2016_paper.pdf
+Inside-Outside Net: Detecting Objects in Context With Skip Pooling and Recurrent Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bell_Inside-Outside_Net_Detecting_CVPR_2016_paper.pdf
+RIFD-CNN: Rotation-Invariant and Fisher Discriminative Convolutional Neural Networks for Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cheng_RIFD-CNN_Rotation-Invariant_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_RIFD-CNN_Rotation-Invariant_and_CVPR_2016_paper.pdf
+Reinforcement Learning for Visual Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mathe_Reinforcement_Learning_for_CVPR_2016_paper.pdf
+Detecting Repeating Objects Using Patch Correlation Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huberman_Detecting_Repeating_Objects_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huberman_Detecting_Repeating_Objects_CVPR_2016_paper.pdf
+Analyzing Classifiers: Fisher Vectors and Deep Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bach_Analyzing_Classifiers_Fisher_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bach_Analyzing_Classifiers_Fisher_CVPR_2016_paper.pdf
+Learning Deep Features for Discriminative Localization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Learning_Deep_Features_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Learning_Deep_Features_CVPR_2016_paper.pdf
+Seeing Through the Human Reporting Bias: Visual Classifiers From Noisy Human-Centric Labels
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Misra_Seeing_Through_the_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Misra_Seeing_Through_the_CVPR_2016_paper.pdf
+Learning Aligned Cross-Modal Representations From Weakly Aligned Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Castrejon_Learning_Aligned_Cross-Modal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Castrejon_Learning_Aligned_Cross-Modal_CVPR_2016_paper.pdf
+A Probabilistic Collaborative Representation Based Approach for Pattern Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cai_A_Probabilistic_Collaborative_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cai_A_Probabilistic_Collaborative_CVPR_2016_paper.pdf
+Learning Structured Inference Neural Networks With Label Relations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Learning_Structured_Inference_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Learning_Structured_Inference_CVPR_2016_paper.pdf
+Discriminative Multi-Modal Feature Fusion for RGBD Indoor Scene Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Discriminative_Multi-Modal_Feature_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Discriminative_Multi-Modal_Feature_CVPR_2016_paper.pdf
+Conditional Graphical Lasso for Multi-Label Image Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Conditional_Graphical_Lasso_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Conditional_Graphical_Lasso_CVPR_2016_paper.pdf
+Region Ranking SVM for Image Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wei_Region_Ranking_SVM_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wei_Region_Ranking_SVM_CVPR_2016_paper.pdf
+Predicting Motivations of Actions by Leveraging Text
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vondrick_Predicting_Motivations_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Predicting_Motivations_of_CVPR_2016_paper.pdf
+BoxCars: 3D Boxes as CNN Input for Improved Fine-Grained Vehicle Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sochor_BoxCars_3D_Boxes_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sochor_BoxCars_3D_Boxes_CVPR_2016_paper.pdf
+Highway Vehicle Counting in Compressed Domain
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Highway_Vehicle_Counting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Highway_Vehicle_Counting_CVPR_2016_paper.pdf
+Camera Calibration From Periodic Motion of a Pedestrian
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Camera_Calibration_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Camera_Calibration_From_CVPR_2016_paper.pdf
+Dynamic Image Networks for Action Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bilen_Dynamic_Image_Networks_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bilen_Dynamic_Image_Networks_CVPR_2016_paper.pdf
+Detecting Events and Key Actors in Multi-Person Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ramanathan_Detecting_Events_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ramanathan_Detecting_Events_and_CVPR_2016_paper.pdf
+Regularizing Long Short Term Memory With 3D Human-Skeleton Sequences for Action Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mahasseni_Regularizing_Long_Short_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mahasseni_Regularizing_Long_Short_CVPR_2016_paper.pdf
+Personalizing Human Video Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Charles_Personalizing_Human_Video_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Charles_Personalizing_Human_Video_CVPR_2016_paper.pdf
+End-To-End Learning of Deformable Mixture of Parts and Deep Convolutional Neural Networks for Human Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_End-To-End_Learning_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_End-To-End_Learning_of_CVPR_2016_paper.pdf
+Actor-Action Semantic Segmentation With Grouping Process Models
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xu_Actor-Action_Semantic_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_Actor-Action_Semantic_Segmentation_CVPR_2016_paper.pdf
+Temporal Action Localization With Pyramid of Score Distribution Features
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yuan_Temporal_Action_Localization_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yuan_Temporal_Action_Localization_CVPR_2016_paper.pdf
+Recognizing Activities of Daily Living With a Wrist-Mounted Camera
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ohnishi_Recognizing_Activities_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ohnishi_Recognizing_Activities_of_CVPR_2016_paper.pdf
+Harnessing Object and Scene Semantics for Large-Scale Video Understanding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wu_Harnessing_Object_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Harnessing_Object_and_CVPR_2016_paper.pdf
+Video-Story Composition via Plot Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Choi_Video-Story_Composition_via_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Video-Story_Composition_via_CVPR_2016_paper.pdf
+Temporal Action Detection Using a Statistical Language Model
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Richard_Temporal_Action_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Richard_Temporal_Action_Detection_CVPR_2016_paper.pdf
+Multi-Scale Patch Aggregation (MPA) for Simultaneous Detection and Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Multi-Scale_Patch_Aggregation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Multi-Scale_Patch_Aggregation_CVPR_2016_paper.pdf
+Instance-Aware Semantic Segmentation via Multi-Task Network Cascades
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Instance-Aware_Semantic_Segmentation_CVPR_2016_paper.pdf
+ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lin_ScribbleSup_Scribble-Supervised_Convolutional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_ScribbleSup_Scribble-Supervised_Convolutional_CVPR_2016_paper.pdf
+Feature Space Optimization for Semantic Video Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kundu_Feature_Space_Optimization_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kundu_Feature_Space_Optimization_CVPR_2016_paper.pdf
+Large-Scale Semantic 3D Reconstruction: An Adaptive Multi-Resolution Model for Multi-Class Volumetric Labeling
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Blaha_Large-Scale_Semantic_3D_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Blaha_Large-Scale_Semantic_3D_CVPR_2016_paper.pdf
+Semantic Object Parsing With Local-Global Long Short-Term Memory
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liang_Semantic_Object_Parsing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liang_Semantic_Object_Parsing_CVPR_2016_paper.pdf
+Efficient Piecewise Training of Deep Structured Models for Semantic Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf
+Learning Transferrable Knowledge for Semantic Segmentation With Deep Convolutional Neural Network
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hong_Learning_Transferrable_Knowledge_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hong_Learning_Transferrable_Knowledge_CVPR_2016_paper.pdf
+The Cityscapes Dataset for Semantic Urban Scene Understanding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cordts_The_Cityscapes_Dataset_CVPR_2016_paper.pdf
+Gaussian Conditional Random Field Network for Semantic Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vemulapalli_Gaussian_Conditional_Random_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Gaussian_Conditional_Random_CVPR_2016_paper.pdf
+The SYNTHIA Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ros_The_SYNTHIA_Dataset_CVPR_2016_paper.pdf
+Progressive Prioritized Multi-View Stereo
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Locher_Progressive_Prioritized_Multi-View_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Locher_Progressive_Prioritized_Multi-View_CVPR_2016_paper.pdf
+WarpNet: Weakly Supervised Matching for Single-View Reconstruction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kanazawa_WarpNet_Weakly_Supervised_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kanazawa_WarpNet_Weakly_Supervised_CVPR_2016_paper.pdf
+What Sparse Light Field Coding Reveals About Scene Structure
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Johannsen_What_Sparse_Light_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Johannsen_What_Sparse_Light_CVPR_2016_paper.pdf
+Online Reconstruction of Indoor Scenes From RGB-D Streams
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Online_Reconstruction_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Online_Reconstruction_of_CVPR_2016_paper.pdf
+Patches, Planes and Probabilities: A Non-Local Prior for Volumetric 3D Reconstruction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ulusoy_Patches_Planes_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ulusoy_Patches_Planes_and_CVPR_2016_paper.pdf
+Single Image Camera Calibration With Lenticular Arrays for Augmented Reality
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schillebeeckx_Single_Image_Camera_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schillebeeckx_Single_Image_Camera_CVPR_2016_paper.pdf
+Augmented Blendshapes for Real-Time Simultaneous 3D Head Modeling and Facial Motion Capture
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Thomas_Augmented_Blendshapes_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Thomas_Augmented_Blendshapes_for_CVPR_2016_paper.pdf
+Learned Binary Spectral Shape Descriptor for 3D Shape Correspondence
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xie_Learned_Binary_Spectral_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xie_Learned_Binary_Spectral_CVPR_2016_paper.pdf
+Multiple Model Fitting as a Set Coverage Problem
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Magri_Multiple_Model_Fitting_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Magri_Multiple_Model_Fitting_CVPR_2016_paper.pdf
+Piecewise-Planar 3D Approximation From Wide-Baseline Stereo
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Verleysen_Piecewise-Planar_3D_Approximation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Verleysen_Piecewise-Planar_3D_Approximation_CVPR_2016_paper.pdf
+Sparse to Dense 3D Reconstruction From Rolling Shutter Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Saurer_Sparse_to_Dense_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Saurer_Sparse_to_Dense_CVPR_2016_paper.pdf
+Consistency of Silhouettes and Their Duals
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Trager_Consistency_of_Silhouettes_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trager_Consistency_of_Silhouettes_CVPR_2016_paper.pdf
+Rolling Shutter Absolute Pose Problem With Known Vertical Direction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Albl_Rolling_Shutter_Absolute_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Albl_Rolling_Shutter_Absolute_CVPR_2016_paper.pdf
+Uncertainty-Driven 6D Pose Estimation of Objects and Scenes From a Single RGB Image
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Brachmann_Uncertainty-Driven_6D_Pose_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Brachmann_Uncertainty-Driven_6D_Pose_CVPR_2016_paper.pdf
+Multicamera Calibration From Visible and Mirrored Epipoles
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bushnevskiy_Multicamera_Calibration_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bushnevskiy_Multicamera_Calibration_From_CVPR_2016_paper.pdf
+Joint Unsupervised Deformable Spatio-Temporal Alignment of Sequences
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zafeiriou_Joint_Unsupervised_Deformable_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zafeiriou_Joint_Unsupervised_Deformable_CVPR_2016_paper.pdf
+Deep Region and Multi-Label Learning for Facial Action Unit Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhao_Deep_Region_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhao_Deep_Region_and_CVPR_2016_paper.pdf
+Constrained Joint Cascade Regression Framework for Simultaneous Facial Action Unit Recognition and Facial Landmark Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wu_Constrained_Joint_Cascade_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Constrained_Joint_Cascade_CVPR_2016_paper.pdf
+Unconstrained Face Alignment via Cascaded Compositional Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Unconstrained_Face_Alignment_CVPR_2016_paper.pdf
+Automated 3D Face Reconstruction From Multiple Images Using Quality Measures
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Piotraschke_Automated_3D_Face_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Piotraschke_Automated_3D_Face_CVPR_2016_paper.pdf
+Occlusion-Free Face Alignment: Deep Regression Networks Coupled With De-Corrupt AutoEncoders
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Occlusion-Free_Face_Alignment_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Occlusion-Free_Face_Alignment_CVPR_2016_paper.pdf
+Multimodal Spontaneous Emotion Corpus for Human Behavior Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Multimodal_Spontaneous_Emotion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Multimodal_Spontaneous_Emotion_CVPR_2016_paper.pdf
+Learning Reconstruction-Based Remote Gaze Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yu_Learning_Reconstruction-Based_Remote_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Learning_Reconstruction-Based_Remote_CVPR_2016_paper.pdf
+Joint Training of Cascaded CNN for Face Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qin_Joint_Training_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qin_Joint_Training_of_CVPR_2016_paper.pdf
+Facial Expression Intensity Estimation Using Ordinal Information
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhao_Facial_Expression_Intensity_CVPR_2016_paper.pdf
+Proposal Flow
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ham_Proposal_Flow_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ham_Proposal_Flow_CVPR_2016_paper.pdf
+ProNet: Learning to Propose Object-Specific Boxes for Cascaded Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sun_ProNet_Learning_to_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sun_ProNet_Learning_to_CVPR_2016_paper.pdf
+Seeing Behind the Camera: Identifying the Authorship of a Photograph
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Thomas_Seeing_Behind_the_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Thomas_Seeing_Behind_the_CVPR_2016_paper.pdf
+Material Classification Using Raw Time-Of-Flight Measurements
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Su_Material_Classification_Using_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Su_Material_Classification_Using_CVPR_2016_paper.pdf
+Weakly Supervised Object Localization With Progressive Domain Adaptation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Weakly_Supervised_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Weakly_Supervised_Object_CVPR_2016_paper.pdf
+Newtonian Scene Understanding: Unfolding the Dynamics of Objects in Static Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mottaghi_Newtonian_Scene_Understanding_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mottaghi_Newtonian_Scene_Understanding_CVPR_2016_paper.pdf
+Identifying Good Training Data for Self-Supervised Free Space Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Harakeh_Identifying_Good_Training_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harakeh_Identifying_Good_Training_CVPR_2016_paper.pdf
+Learning to Match Aerial Images With Deep Attentive Architectures
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Altwaijry_Learning_to_Match_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Altwaijry_Learning_to_Match_CVPR_2016_paper.pdf
+Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Singh_Track_and_Transfer_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Singh_Track_and_Transfer_CVPR_2016_paper.pdf
+DeepCAMP: Deep Convolutional Action & Attribute Mid-Level Patterns
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Diba_DeepCAMP_Deep_Convolutional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Diba_DeepCAMP_Deep_Convolutional_CVPR_2016_paper.pdf
+Canny Text Detector: Fast and Robust Scene Text Localization Algorithm
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cho_Canny_Text_Detector_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cho_Canny_Text_Detector_CVPR_2016_paper.pdf
+Temporal Multimodal Learning in Audiovisual Speech Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Temporal_Multimodal_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Temporal_Multimodal_Learning_CVPR_2016_paper.pdf
+Recovering 6D Object Pose and Predicting Next-Best-View in the Crowd
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Doumanoglou_Recovering_6D_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Doumanoglou_Recovering_6D_Object_CVPR_2016_paper.pdf
+Robust 3D Hand Pose Estimation in Single Depth Images: From Single-View CNN to Multi-View CNNs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ge_Robust_3D_Hand_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ge_Robust_3D_Hand_CVPR_2016_paper.pdf
+Semantic Segmentation With Boundary Neural Fields
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bertasius_Semantic_Segmentation_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bertasius_Semantic_Segmentation_With_CVPR_2016_paper.pdf
+HD Maps: Fine-Grained Road Segmentation by Parsing Ground and Aerial Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mattyus_HD_Maps_Fine-Grained_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mattyus_HD_Maps_Fine-Grained_CVPR_2016_paper.pdf
+DAG-Recurrent Neural Networks For Scene Labeling
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shuai_DAG-Recurrent_Neural_Networks_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shuai_DAG-Recurrent_Neural_Networks_CVPR_2016_paper.pdf
+Saliency Guided Dictionary Learning for Weakly-Supervised Image Parsing
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lai_Saliency_Guided_Dictionary_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lai_Saliency_Guided_Dictionary_CVPR_2016_paper.pdf
+Attention to Scale: Scale-Aware Semantic Image Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Attention_to_Scale_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf
+Scene Labeling Using Sparse Precision Matrix
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Souly_Scene_Labeling_Using_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Souly_Scene_Labeling_Using_CVPR_2016_paper.pdf
+Iterative Instance Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Iterative_Instance_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Iterative_Instance_Segmentation_CVPR_2016_paper.pdf
+Recurrent Attentional Networks for Saliency Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kuen_Recurrent_Attentional_Networks_CVPR_2016_paper.pdf
+Instance-Level Video Segmentation From Object Tracks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Seguin_Instance-Level_Video_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Seguin_Instance-Level_Video_Segmentation_CVPR_2016_paper.pdf
+Semantic Instance Annotation of Street Scenes by 3D to 2D Label Transfer
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xie_Semantic_Instance_Annotation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xie_Semantic_Instance_Annotation_CVPR_2016_paper.pdf
+Amplitude Modulated Video Camera - Light Separation in Dynamic Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kolaman_Amplitude_Modulated_Video_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kolaman_Amplitude_Modulated_Video_CVPR_2016_paper.pdf
+A Benchmark Dataset and Evaluation for Non-Lambertian and Uncalibrated Photometric Stereo
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shi_A_Benchmark_Dataset_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_A_Benchmark_Dataset_CVPR_2016_paper.pdf
+Depth From Semi-Calibrated Stereo and Defocus
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Depth_From_Semi-Calibrated_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Depth_From_Semi-Calibrated_CVPR_2016_paper.pdf
+Exploiting Spectral-Spatial Correlation for Coded Hyperspectral Image Restoration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fu_Exploiting_Spectral-Spatial_Correlation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fu_Exploiting_Spectral-Spatial_Correlation_CVPR_2016_paper.pdf
+Variable Aperture Light Field Photography: Overcoming the Diffraction-Limited Spatio-Angular Resolution Tradeoff
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chang_Variable_Aperture_Light_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chang_Variable_Aperture_Light_CVPR_2016_paper.pdf
+Convolutional Networks for Shape From Light Field
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Heber_Convolutional_Networks_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Heber_Convolutional_Networks_for_CVPR_2016_paper.pdf
+Panoramic Stereo Videos With a Single Camera
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Aggarwal_Panoramic_Stereo_Videos_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Aggarwal_Panoramic_Stereo_Videos_CVPR_2016_paper.pdf
+The Next Best Underwater View
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sheinin_The_Next_Best_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sheinin_The_Next_Best_CVPR_2016_paper.pdf
+Reconstructing Shapes and Appearances of Thin Film Objects Using RGB Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kobayashi_Reconstructing_Shapes_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kobayashi_Reconstructing_Shapes_and_CVPR_2016_paper.pdf
+Noisy Label Recovery for Shadow Detection in Unfamiliar Domains
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vicente_Noisy_Label_Recovery_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vicente_Noisy_Label_Recovery_CVPR_2016_paper.pdf
+Deep Hand: How to Train a CNN on 1 Million Hand Images When Your Data Is Continuous and Weakly Labelled
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Koller_Deep_Hand_How_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Koller_Deep_Hand_How_CVPR_2016_paper.pdf
+Recognizing Car Fluents From Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Recognizing_Car_Fluents_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Recognizing_Car_Fluents_CVPR_2016_paper.pdf
+Pairwise Decomposition of Image Sequences for Active Multi-View Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Johns_Pairwise_Decomposition_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Johns_Pairwise_Decomposition_of_CVPR_2016_paper.pdf
+Inferring Forces and Learning Human Utilities From Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Inferring_Forces_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Inferring_Forces_and_CVPR_2016_paper.pdf
+Force From Motion: Decoding Physical Sensation in a First Person Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Park_Force_From_Motion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Park_Force_From_Motion_CVPR_2016_paper.pdf
+Robust Multi-Body Feature Tracker: A Segmentation-Free Approach
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ji_Robust_Multi-Body_Feature_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ji_Robust_Multi-Body_Feature_CVPR_2016_paper.pdf
+Slow and Steady Feature Analysis: Higher Order Temporal Coherence in Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jayaraman_Slow_and_Steady_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jayaraman_Slow_and_Steady_CVPR_2016_paper.pdf
+Volumetric 3D Tracking by Detection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Volumetric_3D_Tracking_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Volumetric_3D_Tracking_CVPR_2016_paper.pdf
+The Solution Path Algorithm for Identity-Aware Multi-Object Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yu_The_Solution_Path_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_The_Solution_Path_CVPR_2016_paper.pdf
+In Defense of Sparse Tracking: Circulant Sparse Tracker
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_In_Defense_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_In_Defense_of_CVPR_2016_paper.pdf
+Optical Flow With Semantic Segmentation and Localized Layers
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sevilla-Lara_Optical_Flow_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sevilla-Lara_Optical_Flow_With_CVPR_2016_paper.pdf
+Video Segmentation via Object Flow
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tsai_Video_Segmentation_via_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tsai_Video_Segmentation_via_CVPR_2016_paper.pdf
+Closed-Form Training of Mahalanobis Distance for Supervised Clustering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Law_Closed-Form_Training_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Law_Closed-Form_Training_of_CVPR_2016_paper.pdf
+Scalable Sparse Subspace Clustering by Orthogonal Matching Pursuit
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/You_Scalable_Sparse_Subspace_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/You_Scalable_Sparse_Subspace_CVPR_2016_paper.pdf
+Oracle Based Active Set Algorithm for Scalable Elastic Net Subspace Clustering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/You_Oracle_Based_Active_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/You_Oracle_Based_Active_CVPR_2016_paper.pdf
+Sparse Coding and Dictionary Learning With Linear Dynamical Systems
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Sparse_Coding_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Sparse_Coding_and_CVPR_2016_paper.pdf
+Sublabel-Accurate Relaxation of Nonconvex Energies
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mollenhoff_Sublabel-Accurate_Relaxation_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mollenhoff_Sublabel-Accurate_Relaxation_of_CVPR_2016_paper.pdf
+The Multiverse Loss for Robust Transfer Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Littwin_The_Multiverse_Loss_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Littwin_The_Multiverse_Loss_CVPR_2016_paper.pdf
+Learning From the Mistakes of Others: Matching Errors in Cross-Dataset Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sharmanska_Learning_From_the_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sharmanska_Learning_From_the_CVPR_2016_paper.pdf
+An Efficient Exact-PGA Algorithm for Constant Curvature Manifolds
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chakraborty_An_Efficient_Exact-PGA_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chakraborty_An_Efficient_Exact-PGA_CVPR_2016_paper.pdf
+Online Learning With Bayesian Classification Trees
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bulo_Online_Learning_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bulo_Online_Learning_With_CVPR_2016_paper.pdf
+Cross-Stitch Networks for Multi-Task Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Misra_Cross-Stitch_Networks_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Misra_Cross-Stitch_Networks_for_CVPR_2016_paper.pdf
+Deep Metric Learning via Lifted Structured Feature Embedding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Song_Deep_Metric_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Song_Deep_Metric_Learning_CVPR_2016_paper.pdf
+Fast Algorithms for Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lavin_Fast_Algorithms_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lavin_Fast_Algorithms_for_CVPR_2016_paper.pdf
+Coordinating Multiple Disparity Proposals for Stereo Computation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Coordinating_Multiple_Disparity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Coordinating_Multiple_Disparity_CVPR_2016_paper.pdf
+Joint Multiview Segmentation and Localization of RGB-D Images Using Depth-Induced Silhouette Consistency
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Joint_Multiview_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Joint_Multiview_Segmentation_CVPR_2016_paper.pdf
+A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mayer_A_Large_Dataset_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mayer_A_Large_Dataset_CVPR_2016_paper.pdf
+6D Dynamic Camera Relocalization From Single Reference Image
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Feng_6D_Dynamic_Camera_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Feng_6D_Dynamic_Camera_CVPR_2016_paper.pdf
+Dense Monocular Depth Estimation in Complex Dynamic Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ranftl_Dense_Monocular_Depth_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ranftl_Dense_Monocular_Depth_CVPR_2016_paper.pdf
+Using Self-Contradiction to Learn Confidence Measures in Stereo Vision
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mostegel_Using_Self-Contradiction_to_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mostegel_Using_Self-Contradiction_to_CVPR_2016_paper.pdf
+Understanding Real World Indoor Scenes With Synthetic Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Handa_Understanding_Real_World_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Handa_Understanding_Real_World_CVPR_2016_paper.pdf
+Stereo Matching With Color and Monochrome Cameras in Low-Light Conditions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jeon_Stereo_Matching_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jeon_Stereo_Matching_With_CVPR_2016_paper.pdf
+Camera Calibration From Dynamic Silhouettes Using Motion Barcodes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ben-Artzi_Camera_Calibration_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ben-Artzi_Camera_Calibration_From_CVPR_2016_paper.pdf
+Structure-From-Motion Revisited
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf
+Constructing Canonical Regions for Fast and Effective View Selection
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Constructing_Canonical_Regions_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Constructing_Canonical_Regions_CVPR_2016_paper.pdf
+Prior-Less Compressible Structure From Motion
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kong_Prior-Less_Compressible_Structure_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kong_Prior-Less_Compressible_Structure_CVPR_2016_paper.pdf
+Rolling Shutter Camera Relative Pose: Generalized Epipolar Geometry
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dai_Rolling_Shutter_Camera_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dai_Rolling_Shutter_Camera_CVPR_2016_paper.pdf
+Structure From Motion With Objects
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Crocco_Structure_From_Motion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Crocco_Structure_From_Motion_CVPR_2016_paper.pdf
+DeepHand: Robust Hand Pose Estimation by Completing a Matrix Imputed With Deep Features
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sinha_DeepHand_Robust_Hand_CVPR_2016_paper.pdf
+Multi-Oriented Text Detection With Fully Convolutional Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Multi-Oriented_Text_Detection_CVPR_2016_paper.pdf
+Robust Scene Text Recognition With Automatic Rectification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shi_Robust_Scene_Text_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Robust_Scene_Text_CVPR_2016_paper.pdf
+Mnemonic Descent Method: A Recurrent Process Applied for End-To-End Face Alignment
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Mnemonic_Descent_Method_CVPR_2016_paper.pdf
+Large-Pose Face Alignment via CNN-Based Dense 3D Model Fitting
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jourabloo_Large-Pose_Face_Alignment_CVPR_2016_paper.pdf
+Adaptive 3D Face Reconstruction From Unconstrained Photo Collections
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Roth_Adaptive_3D_Face_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Roth_Adaptive_3D_Face_CVPR_2016_paper.pdf
+Online Detection and Classification of Dynamic Hand Gestures With Recurrent 3D Convolutional Neural Network
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Molchanov_Online_Detection_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Molchanov_Online_Detection_and_CVPR_2016_paper.pdf
+Kinematic Structure Correspondences via Hypergraph Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chang_Kinematic_Structure_Correspondences_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chang_Kinematic_Structure_Correspondences_CVPR_2016_paper.pdf
+CP-mtML: Coupled Projection Multi-Task Metric Learning for Large Scale Face Retrieval
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bhattarai_CP-mtML_Coupled_Projection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bhattarai_CP-mtML_Coupled_Projection_CVPR_2016_paper.pdf
+PatchBatch: A Batch Augmented Loss for Optical Flow
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gadot_PatchBatch_A_Batch_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gadot_PatchBatch_A_Batch_CVPR_2016_paper.pdf
+Joint Recovery of Dense Correspondence and Cosegmentation in Two Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Taniai_Joint_Recovery_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Taniai_Joint_Recovery_of_CVPR_2016_paper.pdf
+Multi-View People Tracking via Hierarchical Trajectory Composition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xu_Multi-View_People_Tracking_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_Multi-View_People_Tracking_CVPR_2016_paper.pdf
+Object Tracking via Dual Linear Structured SVM and Explicit Feature Map
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ning_Object_Tracking_via_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ning_Object_Tracking_via_CVPR_2016_paper.pdf
+Robust, Real-Time 3D Tracking of Multiple Objects With Similar Appearances
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sekii_Robust_Real-Time_3D_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sekii_Robust_Real-Time_3D_CVPR_2016_paper.pdf
+An Egocentric Look at Video Photographer Identity
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hoshen_An_Egocentric_Look_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hoshen_An_Egocentric_Look_CVPR_2016_paper.pdf
+Learning Multi-Domain Convolutional Neural Networks for Visual Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nam_Learning_Multi-Domain_Convolutional_CVPR_2016_paper.pdf
+Hedged Deep Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qi_Hedged_Deep_Tracking_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qi_Hedged_Deep_Tracking_CVPR_2016_paper.pdf
+Structural Correlation Filter for Robust Visual Tracking
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Structural_Correlation_Filter_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Structural_Correlation_Filter_CVPR_2016_paper.pdf
+Visual Tracking Using Attention-Modulated Disintegration and Integration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Choi_Visual_Tracking_Using_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Visual_Tracking_Using_CVPR_2016_paper.pdf
+A Continuous Occlusion Model for Road Scene Understanding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dhiman_A_Continuous_Occlusion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dhiman_A_Continuous_Occlusion_CVPR_2016_paper.pdf
+Virtual Worlds as Proxy for Multi-Object Tracking Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Gaidon_Virtual_Worlds_as_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gaidon_Virtual_Worlds_as_CVPR_2016_paper.pdf
+Uncalibrated Photometric Stereo by Stepwise Optimization Using Principal Components of Isotropic BRDFs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Midorikawa_Uncalibrated_Photometric_Stereo_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Midorikawa_Uncalibrated_Photometric_Stereo_CVPR_2016_paper.pdf
+Unbiased Photometric Stereo for Colored Surfaces: A Variational Approach
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Queau_Unbiased_Photometric_Stereo_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Queau_Unbiased_Photometric_Stereo_CVPR_2016_paper.pdf
+3D Reconstruction of Transparent Objects With Position-Normal Consistency
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qian_3D_Reconstruction_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qian_3D_Reconstruction_of_CVPR_2016_paper.pdf
+Real-Time Depth Refinement for Specular Objects
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Or-El_Real-Time_Depth_Refinement_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Or-El_Real-Time_Depth_Refinement_CVPR_2016_paper.pdf
+Recovering Transparent Shape From Time-Of-Flight Distortion
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tanaka_Recovering_Transparent_Shape_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tanaka_Recovering_Transparent_Shape_CVPR_2016_paper.pdf
+Robust Light Field Depth Estimation for Noisy Scene With Occlusion
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Williem_Robust_Light_Field_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf
+Rotational Crossed-Slit Light Field
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Rotational_Crossed-Slit_Light_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Rotational_Crossed-Slit_Light_CVPR_2016_paper.pdf
+Single Image Object Modeling Based on BRDF and R-Surfaces Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Natola_Single_Image_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Natola_Single_Image_Object_CVPR_2016_paper.pdf
+A Nonlinear Regression Technique for Manifold Valued Data With Applications to Medical Image Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Banerjee_A_Nonlinear_Regression_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Banerjee_A_Nonlinear_Regression_CVPR_2016_paper.pdf
+RAID-G: Robust Estimation of Approximate Infinite Dimensional Gaussian With Application to Material Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_RAID-G_Robust_Estimation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_RAID-G_Robust_Estimation_CVPR_2016_paper.pdf
+An Empirical Evaluation of Current Convolutional Architectures' Ability to Manage Nuisance Location and Scale Variability
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Karianakis_An_Empirical_Evaluation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Karianakis_An_Empirical_Evaluation_CVPR_2016_paper.pdf
+Learning Sparse High Dimensional Filters: Image Filtering, Dense CRFs and Bilateral Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jampani_Learning_Sparse_High_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jampani_Learning_Sparse_High_CVPR_2016_paper.pdf
+Mixture of Bilateral-Projection Two-Dimensional Probabilistic Principal Component Analysis
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ju_Mixture_of_Bilateral-Projection_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ju_Mixture_of_Bilateral-Projection_CVPR_2016_paper.pdf
+Rolling Rotations for Recognizing Human Actions From 3D Skeletal Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vemulapalli_Rolling_Rotations_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Rolling_Rotations_for_CVPR_2016_paper.pdf
+Improving the Robustness of Deep Neural Networks via Stability Training
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zheng_Improving_the_Robustness_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zheng_Improving_the_Robustness_CVPR_2016_paper.pdf
+Logistic Boosting Regression for Label Distribution Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xing_Logistic_Boosting_Regression_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xing_Logistic_Boosting_Regression_CVPR_2016_paper.pdf
+Efficient Temporal Sequence Comparison and Classification Using Gram Matrix Embeddings on a Riemannian Manifold
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Efficient_Temporal_Sequence_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Efficient_Temporal_Sequence_CVPR_2016_paper.pdf
+Deep Reflectance Maps
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rematas_Deep_Reflectance_Maps_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rematas_Deep_Reflectance_Maps_CVPR_2016_paper.pdf
+Semantic Filtering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Semantic_Filtering_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Semantic_Filtering_CVPR_2016_paper.pdf
+UAV Sensor Fusion With Latent-Dynamic Conditional Random Fields in Coronal Plane Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rahimi_UAV_Sensor_Fusion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rahimi_UAV_Sensor_Fusion_CVPR_2016_paper.pdf
+Robust Visual Place Recognition With Graph Kernels
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Stumm_Robust_Visual_Place_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Stumm_Robust_Visual_Place_CVPR_2016_paper.pdf
+Semantic Image Segmentation With Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf
+Natural Language Object Retrieval
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Natural_Language_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Natural_Language_Object_CVPR_2016_paper.pdf
+DenseCap: Fully Convolutional Localization Networks for Dense Captioning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Johnson_DenseCap_Fully_Convolutional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Johnson_DenseCap_Fully_Convolutional_CVPR_2016_paper.pdf
+Unsupervised Learning From Narrated Instruction Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf
+Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf
+Jointly Modeling Embedding and Translation to Bridge Video and Language
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pan_Jointly_Modeling_Embedding_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Jointly_Modeling_Embedding_CVPR_2016_paper.pdf
+We Are Humor Beings: Understanding and Predicting Visual Humor
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chandrasekaran_We_Are_Humor_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chandrasekaran_We_Are_Humor_CVPR_2016_paper.pdf
+Where to Look: Focus Regions for Visual Question Answering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shih_Where_to_Look_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shih_Where_to_Look_CVPR_2016_paper.pdf
+Ask Me Anything: Free-Form Visual Question Answering Based on Knowledge From External Sources
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wu_Ask_Me_Anything_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Ask_Me_Anything_CVPR_2016_paper.pdf
+MovieQA: Understanding Stories in Movies Through Question-Answering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tapaswi_MovieQA_Understanding_Stories_CVPR_2016_paper.pdf
+TGIF: A New Dataset and Benchmark on Animated GIF Description
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_TGIF_A_New_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_TGIF_A_New_CVPR_2016_paper.pdf
+Image Captioning With Semantic Attention
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/You_Image_Captioning_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf
+Temporally Coherent 4D Reconstruction of Complex Dynamic Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mustafa_Temporally_Coherent_4D_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mustafa_Temporally_Coherent_4D_CVPR_2016_paper.pdf
+Consensus of Non-Rigid Reconstructions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lee_Consensus_of_Non-Rigid_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lee_Consensus_of_Non-Rigid_CVPR_2016_paper.pdf
+Isometric Non-Rigid Shape-From-Motion in Linear Time
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Parashar_Isometric_Non-Rigid_Shape-From-Motion_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Parashar_Isometric_Non-Rigid_Shape-From-Motion_CVPR_2016_paper.pdf
+Learning Online Smooth Predictors for Realtime Camera Planning Using Recurrent Decision Trees
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Learning_Online_Smooth_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Learning_Online_Smooth_CVPR_2016_paper.pdf
+Egocentric Future Localization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Park_Egocentric_Future_Localization_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Park_Egocentric_Future_Localization_CVPR_2016_paper.pdf
+Full Flow: Optical Flow Estimation By Global Optimization Over Regular Grids
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Full_Flow_Optical_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Full_Flow_Optical_CVPR_2016_paper.pdf
+Structured Feature Learning for Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chu_Structured_Feature_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chu_Structured_Feature_Learning_CVPR_2016_paper.pdf
+Convolutional Pose Machines
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wei_Convolutional_Pose_Machines_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wei_Convolutional_Pose_Machines_CVPR_2016_paper.pdf
+Human Pose Estimation With Iterative Error Feedback
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Carreira_Human_Pose_Estimation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Carreira_Human_Pose_Estimation_CVPR_2016_paper.pdf
+WELDON: Weakly Supervised Learning of Deep Convolutional Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Durand_WELDON_Weakly_Supervised_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Durand_WELDON_Weakly_Supervised_CVPR_2016_paper.pdf
+DisturbLabel: Regularizing CNN on the Loss Layer
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xie_DisturbLabel_Regularizing_CNN_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xie_DisturbLabel_Regularizing_CNN_CVPR_2016_paper.pdf
+Gradual DropIn of Layers to Train Very Deep Neural Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Smith_Gradual_DropIn_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Smith_Gradual_DropIn_of_CVPR_2016_paper.pdf
+Structure Inference Machines: Recurrent Neural Networks for Analyzing Relations in Group Activity Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Deng_Structure_Inference_Machines_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Deng_Structure_Inference_Machines_CVPR_2016_paper.pdf
+Deep SimNets
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cohen_Deep_SimNets_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cohen_Deep_SimNets_CVPR_2016_paper.pdf
+Studying Very Low Resolution Recognition Using Deep Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Studying_Very_Low_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Studying_Very_Low_CVPR_2016_paper.pdf
+Deep Gaussian Conditional Random Field Network: A Model-Based Deep Network for Discriminative Denoising
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vemulapalli_Deep_Gaussian_Conditional_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vemulapalli_Deep_Gaussian_Conditional_CVPR_2016_paper.pdf
+Event-Specific Image Importance
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Event-Specific_Image_Importance_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Event-Specific_Image_Importance_CVPR_2016_paper.pdf
+Quantized Convolutional Neural Networks for Mobile Devices
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wu_Quantized_Convolutional_Neural_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Quantized_Convolutional_Neural_CVPR_2016_paper.pdf
+Inverting Visual Representations With Convolutional Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.pdf
+Pose-Aware Face Recognition in the Wild
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Masi_Pose-Aware_Face_Recognition_CVPR_2016_paper.pdf
+Multi-View Deep Network for Cross-View Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kan_Multi-View_Deep_Network_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kan_Multi-View_Deep_Network_CVPR_2016_paper.pdf
+Sparsifying Neural Network Connections for Face Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sun_Sparsifying_Neural_Network_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sun_Sparsifying_Neural_Network_CVPR_2016_paper.pdf
+Pairwise Linear Regression Classification for Image Set Retrieval
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Feng_Pairwise_Linear_Regression_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Feng_Pairwise_Linear_Regression_CVPR_2016_paper.pdf
+The MegaFace Benchmark: 1 Million Faces for Recognition at Scale
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kemelmacher-Shlizerman_The_MegaFace_Benchmark_CVPR_2016_paper.pdf
+Learnt Quasi-Transitive Similarity for Retrieval From Large Collections of Faces
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Arandjelovic_Learnt_Quasi-Transitive_Similarity_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Arandjelovic_Learnt_Quasi-Transitive_Similarity_CVPR_2016_paper.pdf
+Latent Factor Guided Convolutional Neural Networks for Age-Invariant Face Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wen_Latent_Factor_Guided_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wen_Latent_Factor_Guided_CVPR_2016_paper.pdf
+Copula Ordinal Regression for Joint Estimation of Facial Action Unit Intensity
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Walecki_Copula_Ordinal_Regression_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Walecki_Copula_Ordinal_Regression_CVPR_2016_paper.pdf
+A Robust Multilinear Model Learning Framework for 3D Faces
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bolkart_A_Robust_Multilinear_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bolkart_A_Robust_Multilinear_CVPR_2016_paper.pdf
+Ordinal Regression With Multiple Output CNN for Age Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Niu_Ordinal_Regression_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Niu_Ordinal_Regression_With_CVPR_2016_paper.pdf
+DeepCut: Joint Subset Partition and Labeling for Multi Person Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pishchulin_DeepCut_Joint_Subset_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pishchulin_DeepCut_Joint_Subset_CVPR_2016_paper.pdf
+Thin-Slicing for Pose: Learning to Understand Pose Without Explicit Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kwak_Thin-Slicing_for_Pose_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kwak_Thin-Slicing_for_Pose_CVPR_2016_paper.pdf
+A Dual-Source Approach for 3D Pose Estimation From a Single Image
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yasin_A_Dual-Source_Approach_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yasin_A_Dual-Source_Approach_CVPR_2016_paper.pdf
+Efficiently Creating 3D Training Data for Fine Hand Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Oberweger_Efficiently_Creating_3D_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Oberweger_Efficiently_Creating_3D_CVPR_2016_paper.pdf
+Sparseness Meets Deepness: 3D Human Pose Estimation From Monocular Video
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Sparseness_Meets_Deepness_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Sparseness_Meets_Deepness_CVPR_2016_paper.pdf
+Answer-Type Prediction for Visual Question Answering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kafle_Answer-Type_Prediction_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kafle_Answer-Type_Prediction_for_CVPR_2016_paper.pdf
+Visual Word2Vec (vis-w2v): Learning Visually Grounded Word Embeddings Using Abstract Scenes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kottur_Visual_Word2Vec_vis-w2v_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kottur_Visual_Word2Vec_vis-w2v_CVPR_2016_paper.pdf
+Visual7W: Grounded Question Answering in Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhu_Visual7W_Grounded_Question_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhu_Visual7W_Grounded_Question_CVPR_2016_paper.pdf
+Learning Deep Structure-Preserving Image-Text Embeddings
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Learning_Deep_Structure-Preserving_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Learning_Deep_Structure-Preserving_CVPR_2016_paper.pdf
+Yin and Yang: Balancing and Answering Binary Visual Questions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Yin_and_Yang_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Yin_and_Yang_CVPR_2016_paper.pdf
+GIFT: A Real-Time and Scalable 3D Shape Search Engine
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bai_GIFT_A_Real-Time_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bai_GIFT_A_Real-Time_CVPR_2016_paper.pdf
+Functional Faces: Groupwise Dense Correspondence Using Functional Maps
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Functional_Faces_Groupwise_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Functional_Faces_Groupwise_CVPR_2016_paper.pdf
+Similarity Metric For Curved Shapes In Euclidean Space
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Demisse_Similarity_Metric_For_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Demisse_Similarity_Metric_For_CVPR_2016_paper.pdf
+Shape Analysis With Hyperbolic Wasserstein Distance
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shi_Shape_Analysis_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Shape_Analysis_With_CVPR_2016_paper.pdf
+Tensor Power Iteration for Multi-Graph Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shi_Tensor_Power_Iteration_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shi_Tensor_Power_Iteration_CVPR_2016_paper.pdf
+Multivariate Regression on the Grassmannian for Predicting Novel Domains
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Multivariate_Regression_on_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Multivariate_Regression_on_CVPR_2016_paper.pdf
+Learning Cross-Domain Landmarks for Heterogeneous Domain Adaptation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tsai_Learning_Cross-Domain_Landmarks_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tsai_Learning_Cross-Domain_Landmarks_CVPR_2016_paper.pdf
+Geospatial Correspondences for Multimodal Registration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Marcos_Geospatial_Correspondences_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Marcos_Geospatial_Correspondences_for_CVPR_2016_paper.pdf
+Constrained Deep Transfer Feature Learning and Its Applications
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wu_Constrained_Deep_Transfer_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Constrained_Deep_Transfer_CVPR_2016_paper.pdf
+Deep Canonical Time Warping
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Trigeorgis_Deep_Canonical_Time_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Trigeorgis_Deep_Canonical_Time_CVPR_2016_paper.pdf
+Multilinear Hyperplane Hashing
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Liu_Multilinear_Hyperplane_Hashing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_Multilinear_Hyperplane_Hashing_CVPR_2016_paper.pdf
+Large Scale Hard Sample Mining With Monte Carlo Tree Search
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Canevet_Large_Scale_Hard_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Canevet_Large_Scale_Hard_CVPR_2016_paper.pdf
+Multi-Label Ranking From Positive and Unlabeled Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kanehira_Multi-Label_Ranking_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kanehira_Multi-Label_Ranking_From_CVPR_2016_paper.pdf
+Joint Unsupervised Learning of Deep Representations and Image Clusters
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Joint_Unsupervised_Learning_CVPR_2016_paper.pdf
+Kernel Sparse Subspace Clustering on Symmetric Positive Definite Manifolds
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yin_Kernel_Sparse_Subspace_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yin_Kernel_Sparse_Subspace_CVPR_2016_paper.pdf
+Symmetry reCAPTCHA
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Funk_Symmetry_reCAPTCHA_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Funk_Symmetry_reCAPTCHA_CVPR_2016_paper.pdf
+Unsupervised Learning of Discriminative Attributes and Visual Representations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Unsupervised_Learning_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Unsupervised_Learning_of_CVPR_2016_paper.pdf
+When VLAD Met Hilbert
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Harandi_When_VLAD_Met_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harandi_When_VLAD_Met_CVPR_2016_paper.pdf
+Approximate Log-Hilbert-Schmidt Distances Between Covariance Operators for Image Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Minh_Approximate_Log-Hilbert-Schmidt_Distances_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Minh_Approximate_Log-Hilbert-Schmidt_Distances_CVPR_2016_paper.pdf
+Subspace Clustering With Priors via Sparse Quadratically Constrained Quadratic Programming
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cheng_Subspace_Clustering_With_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cheng_Subspace_Clustering_With_CVPR_2016_paper.pdf
+Robust Tensor Factorization With Unknown Noise
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chen_Robust_Tensor_Factorization_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Robust_Tensor_Factorization_CVPR_2016_paper.pdf
+Kernel Approximation via Empirical Orthogonal Decomposition for Unsupervised Feature Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mukuta_Kernel_Approximation_via_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mukuta_Kernel_Approximation_via_CVPR_2016_paper.pdf
+Active Learning for Delineation of Curvilinear Structures
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Mosinska-Domanska_Active_Learning_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Mosinska-Domanska_Active_Learning_for_CVPR_2016_paper.pdf
+Recognizing Emotions From Abstract Paintings Using Non-Linear Matrix Completion
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Alameda-Pineda_Recognizing_Emotions_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alameda-Pineda_Recognizing_Emotions_From_CVPR_2016_paper.pdf
+Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted Low-Rank Tensors via Convex Optimization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lu_Tensor_Robust_Principal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Lu_Tensor_Robust_Principal_CVPR_2016_paper.pdf
+Sliced Wasserstein Kernels for Probability Distributions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kolouri_Sliced_Wasserstein_Kernels_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kolouri_Sliced_Wasserstein_Kernels_CVPR_2016_paper.pdf
+Trace Quotient Meets Sparsity: A Method for Learning Low Dimensional Image Representations
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wei_Trace_Quotient_Meets_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wei_Trace_Quotient_Meets_CVPR_2016_paper.pdf
+Backtracking ScSPM Image Classifier for Weakly Supervised Top-Down Saliency
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Cholakkal_Backtracking_ScSPM_Image_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Cholakkal_Backtracking_ScSPM_Image_CVPR_2016_paper.pdf
+MSR-VTT: A Large Video Description Dataset for Bridging Video and Language
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xu_MSR-VTT_A_Large_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf
+NetVLAD: CNN Architecture for Weakly Supervised Place Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Arandjelovic_NetVLAD_CNN_Architecture_CVPR_2016_paper.pdf
+Structural-RNN: Deep Learning on Spatio-Temporal Graphs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jain_Structural-RNN_Deep_Learning_CVPR_2016_paper.pdf
+Learning to Select Pre-Trained Deep Representations With Bayesian Evidence Framework
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kim_Learning_to_Select_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kim_Learning_to_Select_CVPR_2016_paper.pdf
+Synthesized Classifiers for Zero-Shot Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Changpinyo_Synthesized_Classifiers_for_CVPR_2016_paper.pdf
+Semi-Supervised Vocabulary-Informed Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fu_Semi-Supervised_Vocabulary-Informed_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fu_Semi-Supervised_Vocabulary-Informed_Learning_CVPR_2016_paper.pdf
+Simultaneous Clustering and Model Selection for Tensor Affinities
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Simultaneous_Clustering_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Simultaneous_Clustering_and_CVPR_2016_paper.pdf
+Discriminatively Embedded K-Means for Multi-View Clustering
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Xu_Discriminatively_Embedded_K-Means_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_Discriminatively_Embedded_K-Means_CVPR_2016_paper.pdf
+Min Norm Point Algorithm for Higher Order MRF-MAP Inference
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shanu_Min_Norm_Point_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shanu_Min_Norm_Point_CVPR_2016_paper.pdf
+Learning Deep Representation for Imbalanced Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Huang_Learning_Deep_Representation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Huang_Learning_Deep_Representation_CVPR_2016_paper.pdf
+Learning Local Image Descriptors With Deep Siamese and Triplet Convolutional Networks by Minimising Global Loss Functions
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/G_Learning_Local_Image_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/G_Learning_Local_Image_CVPR_2016_paper.pdf
+Sparse Coding for Third-Order Super-Symmetric Tensor Descriptors With Application to Texture Recognition
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Koniusz_Sparse_Coding_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Koniusz_Sparse_Coding_for_CVPR_2016_paper.pdf
+Random Features for Sparse Signal Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chang_Random_Features_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chang_Random_Features_for_CVPR_2016_paper.pdf
+High-Quality Depth From Uncalibrated Small Motion Clip
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ha_High-Quality_Depth_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ha_High-Quality_Depth_From_CVPR_2016_paper.pdf
+Efficient 3D Room Shape Recovery From a Single Panorama
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Efficient_3D_Room_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Efficient_3D_Room_CVPR_2016_paper.pdf
+Structured Prediction of Unobserved Voxels From a Single Depth Image
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Firman_Structured_Prediction_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Firman_Structured_Prediction_of_CVPR_2016_paper.pdf
+HyperDepth: Learning Depth From Structured Light Without Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fanello_HyperDepth_Learning_Depth_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fanello_HyperDepth_Learning_Depth_CVPR_2016_paper.pdf
+SVBRDF-Invariant Shape and Reflectance Estimation From Light-Field Cameras
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_SVBRDF-Invariant_Shape_and_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_SVBRDF-Invariant_Shape_and_CVPR_2016_paper.pdf
+Semantic 3D Reconstruction With Continuous Regularization and Ray Potentials Using a Visibility Consistency Constraint
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Savinov_Semantic_3D_Reconstruction_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Savinov_Semantic_3D_Reconstruction_CVPR_2016_paper.pdf
+Theory and Practice of Structure-From-Motion Using Affine Correspondences
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Raposo_Theory_and_Practice_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Raposo_Theory_and_Practice_CVPR_2016_paper.pdf
+Just Look at the Image: Viewpoint-Specific Surface Normal Prediction for Improved Multi-View Reconstruction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Galliani_Just_Look_at_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Galliani_Just_Look_at_CVPR_2016_paper.pdf
+From Dusk Till Dawn: Modeling in the Dark
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Radenovic_From_Dusk_Till_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Radenovic_From_Dusk_Till_CVPR_2016_paper.pdf
+Accelerated Generative Models for 3D Point Cloud Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Eckart_Accelerated_Generative_Models_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Eckart_Accelerated_Generative_Models_CVPR_2016_paper.pdf
+Monocular Depth Estimation Using Neural Regression Forest
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Roy_Monocular_Depth_Estimation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Roy_Monocular_Depth_Estimation_CVPR_2016_paper.pdf
+DeepStereo: Learning to Predict New Views From the World's Imagery
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Flynn_DeepStereo_Learning_to_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Flynn_DeepStereo_Learning_to_CVPR_2016_paper.pdf
+WIDER FACE: A Face Detection Benchmark
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_WIDER_FACE_A_CVPR_2016_paper.pdf
+Situation Recognition: Visual Semantic Role Labeling for Image Understanding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yatskar_Situation_Recognition_Visual_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yatskar_Situation_Recognition_Visual_CVPR_2016_paper.pdf
+A 3D Morphable Model Learnt From 10,000 Faces
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Booth_A_3D_Morphable_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Booth_A_3D_Morphable_CVPR_2016_paper.pdf
+Some Like It Hot - Visual Guidance for Preference Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Rothe_Some_Like_It_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Rothe_Some_Like_It_CVPR_2016_paper.pdf
+EmotioNet: An Accurate, Real-Time Algorithm for the Automatic Annotation of a Million Facial Expressions in the Wild
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Benitez-Quiroz_EmotioNet_An_Accurate_CVPR_2016_paper.pdf
+ForgetMeNot: Memory-Aware Forensic Facial Sketch Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ouyang_ForgetMeNot_Memory-Aware_Forensic_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ouyang_ForgetMeNot_Memory-Aware_Forensic_CVPR_2016_paper.pdf
+LOMo: Latent Ordinal Model for Facial Analysis in Videos
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Sikka_LOMo_Latent_Ordinal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Sikka_LOMo_Latent_Ordinal_CVPR_2016_paper.pdf
+Discriminative Invariant Kernel Features: A Bells-and-Whistles-Free Approach to Unsupervised Face Recognition and Pose Estimation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Pal_Discriminative_Invariant_Kernel_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pal_Discriminative_Invariant_Kernel_CVPR_2016_paper.pdf
+Bottom-Up and Top-Down Reasoning With Hierarchical Rectified Gaussians
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Bottom-Up_and_Top-Down_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Bottom-Up_and_Top-Down_CVPR_2016_paper.pdf
+Fits Like a Glove: Rapid and Reliable Hand Shape Personalization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tan_Fits_Like_a_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tan_Fits_Like_a_CVPR_2016_paper.pdf
+Slicing Convolutional Neural Network for Crowd Video Understanding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shao_Slicing_Convolutional_Neural_CVPR_2016_paper.pdf
+Linear Shape Deformation Models With Local Support Using Graph-Based Structured Matrix Factorisation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bernard_Linear_Shape_Deformation_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bernard_Linear_Shape_Deformation_CVPR_2016_paper.pdf
+Motion From Structure (MfS): Searching for 3D Objects in Cluttered Point Trajectories
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Vongkulbhisal_Motion_From_Structure_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vongkulbhisal_Motion_From_Structure_CVPR_2016_paper.pdf
+Volumetric and Multi-View CNNs for Object Classification on 3D Data
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qi_Volumetric_and_Multi-View_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qi_Volumetric_and_Multi-View_CVPR_2016_paper.pdf
+Detecting Vanishing Points Using Global Image Context in a Non-Manhattan World
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhai_Detecting_Vanishing_Points_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhai_Detecting_Vanishing_Points_CVPR_2016_paper.pdf
+Learning Weight Uncertainty With Stochastic Gradient MCMC for Shape Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Li_Learning_Weight_Uncertainty_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Li_Learning_Weight_Uncertainty_CVPR_2016_paper.pdf
+A Field Model for Repairing 3D Shapes
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Nguyen_A_Field_Model_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nguyen_A_Field_Model_CVPR_2016_paper.pdf
+GOGMA: Globally-Optimal Gaussian Mixture Alignment
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Campbell_GOGMA_Globally-Optimal_Gaussian_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Campbell_GOGMA_Globally-Optimal_Gaussian_CVPR_2016_paper.pdf
+Efficient Deep Learning for Stereo Matching
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Luo_Efficient_Deep_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Luo_Efficient_Deep_Learning_CVPR_2016_paper.pdf
+Efficient Coarse-To-Fine PatchMatch for Large Displacement Optical Flow
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Hu_Efficient_Coarse-To-Fine_PatchMatch_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Hu_Efficient_Coarse-To-Fine_PatchMatch_CVPR_2016_paper.pdf
+FANNG: Fast Approximate Nearest Neighbour Graphs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Harwood_FANNG_Fast_Approximate_CVPR_2016_paper.pdf
+Exemplar-Driven Top-Down Saliency Detection via Deep Association
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/He_Exemplar-Driven_Top-Down_Saliency_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Exemplar-Driven_Top-Down_Saliency_CVPR_2016_paper.pdf
+Unconstrained Salient Object Detection via Proposal Subset Optimization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Unconstrained_Salient_Object_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Unconstrained_Salient_Object_CVPR_2016_paper.pdf
+Recombinator Networks: Learning Coarse-To-Fine Feature Aggregation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Honari_Recombinator_Networks_Learning_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Honari_Recombinator_Networks_Learning_CVPR_2016_paper.pdf
+End-To-End Saliency Mapping via Probability Distribution Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jetley_End-To-End_Saliency_Mapping_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jetley_End-To-End_Saliency_Mapping_CVPR_2016_paper.pdf
+A Paradigm for Building Generalized Models of Human Image Perception Through Data Fusion
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Fan_A_Paradigm_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Fan_A_Paradigm_for_CVPR_2016_paper.pdf
+Longitudinal Face Modeling via Temporal Deep Restricted Boltzmann Machines
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Duong_Longitudinal_Face_Modeling_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Duong_Longitudinal_Face_Modeling_CVPR_2016_paper.pdf
+Saliency Unified: A Deep Architecture for Simultaneous Eye Fixation Prediction and Salient Object Segmentation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Kruthiventi_Saliency_Unified_A_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Kruthiventi_Saliency_Unified_A_CVPR_2016_paper.pdf
+Estimating Correspondences of Deformable Objects "In-The-Wild"
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhou_Estimating_Correspondences_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhou_Estimating_Correspondences_of_CVPR_2016_paper.pdf
+Gravitational Approach for Point Set Registration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Golyanik_Gravitational_Approach_for_CVPR_2016_paper.pdf
+Context-Aware Gaussian Fields for Non-Rigid Point Set Registration
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Context-Aware_Gaussian_Fields_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Context-Aware_Gaussian_Fields_CVPR_2016_paper.pdf
+Trust No One: Low Rank Matrix Factorization Using Hierarchical RANSAC
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Oskarsson_Trust_No_One_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Oskarsson_Trust_No_One_CVPR_2016_paper.pdf
+Relaxation-Based Preprocessing Techniques for Markov Random Field Inference
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Relaxation-Based_Preprocessing_Techniques_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Relaxation-Based_Preprocessing_Techniques_CVPR_2016_paper.pdf
+Sparse Coding for Classification via Discrimination Ensemble
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Quan_Sparse_Coding_for_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Quan_Sparse_Coding_for_CVPR_2016_paper.pdf
+Principled Parallel Mean-Field Inference for Discrete Random Fields
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Baque_Principled_Parallel_Mean-Field_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Baque_Principled_Parallel_Mean-Field_CVPR_2016_paper.pdf
+Guaranteed Outlier Removal With Mixed Integer Linear Programs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Chin_Guaranteed_Outlier_Removal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chin_Guaranteed_Outlier_Removal_CVPR_2016_paper.pdf
+Memory Efficient Max Flow for Multi-Label Submodular MRFs
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Ajanthan_Memory_Efficient_Max_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Ajanthan_Memory_Efficient_Max_CVPR_2016_paper.pdf
+Proximal Riemannian Pursuit for Large-Scale Trace-Norm Minimization
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Tan_Proximal_Riemannian_Pursuit_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Tan_Proximal_Riemannian_Pursuit_CVPR_2016_paper.pdf
+Minimizing the Maximal Rank
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bylow_Minimizing_the_Maximal_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bylow_Minimizing_the_Maximal_CVPR_2016_paper.pdf
+Solving Temporal Puzzles
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dicle_Solving_Temporal_Puzzles_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Dicle_Solving_Temporal_Puzzles_CVPR_2016_paper.pdf
+Estimating Sparse Signals With Smooth Support via Convex Programming and Block Sparsity
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Shah_Estimating_Sparse_Signals_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shah_Estimating_Sparse_Signals_CVPR_2016_paper.pdf
+TenSR: Multi-Dimensional Tensor Sparse Representation
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Qi_TenSR_Multi-Dimensional_Tensor_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Qi_TenSR_Multi-Dimensional_Tensor_CVPR_2016_paper.pdf
+Moral Lineage Tracing
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Jug_Moral_Lineage_Tracing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Jug_Moral_Lineage_Tracing_CVPR_2016_paper.pdf
+Globally Optimal Rigid Intensity Based Registration: A Fast Fourier Domain Approach
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Nasihatkon_Globally_Optimal_Rigid_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Nasihatkon_Globally_Optimal_Rigid_CVPR_2016_paper.pdf
+On Benefits of Selection Diversity via Bilevel Exclusive Sparsity
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_On_Benefits_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_On_Benefits_of_CVPR_2016_paper.pdf
+Fast Training of Triplet-Based Deep Binary Embedding Networks
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhuang_Fast_Training_of_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf
+Marr Revisited: 2D-3D Alignment via Surface Normal Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Bansal_Marr_Revisited_2D-3D_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bansal_Marr_Revisited_2D-3D_CVPR_2016_paper.pdf
+Recovering the Missing Link: Predicting Class-Attribute Associations for Unsupervised Zero-Shot Learning
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Al-Halah_Recovering_the_Missing_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Al-Halah_Recovering_the_Missing_CVPR_2016_paper.pdf
+Fast Zero-Shot Image Tagging
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Fast_Zero-Shot_Image_CVPR_2016_paper.pdf
+Modality and Component Aware Feature Fusion For RGB-D Scene Classification
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Modality_and_Component_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_Modality_and_Component_CVPR_2016_paper.pdf
+PPP: Joint Pointwise and Pairwise Image Label Prediction
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_PPP_Joint_Pointwise_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_PPP_Joint_Pointwise_CVPR_2016_paper.pdf
+Cataloging Public Objects Using Aerial and Street-Level Images - Urban Trees
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wegner_Cataloging_Public_Objects_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wegner_Cataloging_Public_Objects_CVPR_2016_paper.pdf
+Deep Exemplar 2D-3D Detection by Adapting From Real to Rendered Views
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Massa_Deep_Exemplar_2D-3D_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Massa_Deep_Exemplar_2D-3D_CVPR_2016_paper.pdf
+Zero-Shot Learning via Joint Latent Similarity Embedding
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Zhang_Zero-Shot_Learning_via_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhang_Zero-Shot_Learning_via_CVPR_2016_paper.pdf
+CRAFT Objects From Images
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_CRAFT_Objects_From_CVPR_2016_paper.html
+http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_CRAFT_Objects_From_CVPR_2016_paper.pdf
