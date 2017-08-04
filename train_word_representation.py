@@ -8,17 +8,17 @@ parser = argparse.ArgumentParser()
 parser.add_argument('data_dir', default='data', type=str, nargs='?', help='directory for data')
 
 # args for building corpus
-parser.add_argument('-d', '--max_dictionary_words', default=25000, type=int, nargs='?')
+parser.add_argument('-d', '--max_dictionary_words', default=30000, type=int, nargs='?')
 parser.add_argument('-t', '--phrase_threshold', default=1000, type=int, nargs='?')
 
 # args for training / clustering
 parser.add_argument('-m', '--train_model', default='skipgram', type=str, nargs='?',
                     help='model for training word representation')
-parser.add_argument('-w', '--word_dim', default=80, type=int, nargs='?', help='dimensions for word representation')
+parser.add_argument('-w', '--word_dim', default=75, type=int, nargs='?', help='dimensions for word representation')
 parser.add_argument('-i', '--min_count', default=10, type=int, nargs='?', help='minimal number of word occurences')
-parser.add_argument('-p', '--paper_dim', default=10, type=int, nargs='?', help='dimensions for paper representation')
-parser.add_argument('-x', '--perplexity', default=30, type=int, nargs='?', help='perplexity param for t-SNE')
-parser.add_argument('-c', '--clusters', default=10, type=int, nargs='?', help='number of clusters to be divided')
+parser.add_argument('-p', '--paper_dim', default=4, type=int, nargs='?', help='dimensions for paper representation')
+parser.add_argument('-x', '--perplexity', default=25, type=int, nargs='?', help='perplexity param for t-SNE')
+parser.add_argument('-c', '--clusters', default=9, type=int, nargs='?', help='number of clusters to be divided')
 
 args = parser.parse_args()
 
@@ -46,6 +46,7 @@ def main(args):
 
 	print('\nStep 4: Train word representation with fasttext.')
 	p2v.train_words_model('corpus.txt', 'fasttext_model', model=args.train_model, min_count=args.min_count)
+
 
 	print('Checking result. Find similar words for...')
 	print('[deep_learning]', p2v.get_most_similar_words('deep_learning', 12))

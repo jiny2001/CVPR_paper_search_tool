@@ -54,12 +54,12 @@ def load_object(folder, name):
 		return pickle.load(f)
 
 
-def plot_with_labels(attributes, filename, titles=None, markers=None, perplexity=25):
+def plot_with_labels(attributes, filename, titles=None, markers=None, perplexity=25, n_iter=2000):
 	print('Drawing scatter plot on [%s]...' % filename)
 
 	if attributes.shape[1] > 2:
 		print('Reducing attributes...')
-		tsne = TSNE(perplexity=perplexity, n_components=2, init='pca', n_iter=5000)
+		tsne = TSNE(perplexity=perplexity, n_components=2, init='pca', n_iter=n_iter)
 		attributes = tsne.fit_transform(attributes)
 
 	plt.rcParams.update({'font.size': 20})

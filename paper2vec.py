@@ -284,10 +284,10 @@ class Paper2Vec:
 				else:
 					self.paper[papers].abstract_freq[word] = 1
 
-	def reduce_paper_vectors_dim(self, new_dim, perplexity=25):
+	def reduce_paper_vectors_dim(self, new_dim, perplexity=5, n_iter=2000):
 
 		print('Reducing paper vectors from %d to %d dim...' % (self.paper_vectors.shape[1], new_dim))
-		tsne = TSNE(perplexity=perplexity, n_components=new_dim, init='pca', n_iter=5000)
+		tsne = TSNE(perplexity=perplexity, n_components=new_dim, init='pca', n_iter=n_iter)
 		self.paper_vectors = tsne.fit_transform(self.paper_vectors)
 
 	def clustering_papers(self, clusters=10):
