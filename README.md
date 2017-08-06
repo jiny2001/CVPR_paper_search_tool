@@ -5,9 +5,9 @@ Automatic clustering and search tools for CVPR2017 papers by using fastest from 
 
 This project is a sample of building paper vectors and clustering for CVPR 2017 papers. Previouslly I used word2vec and this one is for [fasttext]() from [Facebook Research]().
 
-## Steps
+# Steps
 
-# Step 0. Scraping
+## 0. Scraping
 
 Scraping paper info (title, abstract and PDF) from [CVPR open access repositry]().
 Then extract words to build a corpus. In this project, code for scraping is under crawler directory in Java, (using play framework). 
@@ -30,7 +30,7 @@ Remove people's name (replace one words ending in dot with dot).
 The input corpus we built is under [data/CVPR2016](https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/data/CVPR2016) and [data/CVPR2017](https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/data/CVPR2017).
 
 
-# Step 1 Count all words' occurences and unite corpus files to build a united input corpus.
+## 1. Count all words' occurences and unite corpus files to build a united input corpus.
 
 Build my Paper2Vec instance. Load multiple corpus files.
 And then Replaces rare words with UNK token to build a suitable size of dictionary.
@@ -42,7 +42,7 @@ p2v.add_dictionary_from_file('CVPR2017/corpus.txt')
 p2v.build_dictionary(args.max_dictionary_words)
 ```
 
-# Step 2 Detects phrases by their appearance frequency. Then re-build a new corpus.
+## 2. Detects phrases by their appearance frequency. Then re-build a new corpus.
 
 Count occurences of words sequence. Unite frequent sequence words with "_".
 For ex "deep learning" is now one word, "deep_learning".
@@ -56,7 +56,7 @@ copyfile(args.data_dir + '/CVPR2017/paper_info.txt', args.data_dir + '/paper_inf
 
 ```
 
-# Step 3 Train word representation with fasttext.
+## 3. Train word representation with fasttext.
 
 You can train with "skipgram" or "cbow" by fasttext. Default dimension of vector is 75.
 Also you can find similar word by calling get_most_similar_words().
@@ -67,7 +67,7 @@ p2v.train_words_model('corpus.txt', 'fasttext_model', model=args.train_model, mi
 print('[deep_learning]', p2v.get_most_similar_words('deep_learning', 12))
 ```
 
-# Step 4 Build paper representation vectors with fasttext.
+## 4. Build paper representation vectors with fasttext.
 
 Calculate mean vector of each words' vector in abstract and title to define the vector as a paper representation vector.
 
@@ -76,7 +76,7 @@ p2v.build_paper_vectors()
 ```
 
 
-#  Step 5: Reduce dimensions and then apply k-means clustering.
+## 5. Reduce dimensions and then apply k-means clustering.
 
 Reduce 75-dim of paper vector into 2-dim by using t-SNE.
 
