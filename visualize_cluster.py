@@ -18,10 +18,10 @@ def main(args):
 	p2v = Paper2Vec(data_dir=args.data_dir)
 	p2v.load_words_model('fasttext_model')
 
-	print('\nStep 5: Build paper representation with fasttext.')
+	print('\nStep 4: Build paper representation with fasttext.')
 	p2v.build_paper_vectors()
 
-	print('\nStep 6: Reduce dimensions and then apply k-means clustering.')
+	print('\nStep 5: Reduce dimensions and then apply k-means clustering.')
 	p2v.reduce_paper_vectors_dim(2, perplexity=args.perplexity)
 	p2v.clustering_papers(clusters=args.clusters)
 	helper.plot_with_labels(p2v.paper_vectors, filename=args.data_dir+'/papers.png', markers=p2v.paper_cluster_ids,

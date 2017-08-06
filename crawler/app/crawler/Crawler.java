@@ -256,8 +256,6 @@ public class Crawler {
 		text = text.replaceAll("\\bthose\\b", " ");
 		text = text.replaceAll("\\bet\\b", " ");
 		text = text.replaceAll("\\bal\\b", " ");
-		text = text.replaceAll("\\bieee\\b"," ");
-		text = text.replaceAll("\\bcvpr\\b"," ");
 
 		// change popular plural noun to singular noun
 		text = text.replaceAll("\\bpoints\\b", " point ");
