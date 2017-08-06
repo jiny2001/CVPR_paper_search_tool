@@ -109,7 +109,7 @@ cluster[6] keywords: [tof, material, distortion, classification, depth, time, fr
 ## Find similar papers
 
 ```
-**python find_paper_by_paper.py "Hyperspectral Image Super-Resolution via Non-Local Sparse Tensor Factorization" --c 5 **
+python find_paper_by_paper.py "Hyperspectral Image Super-Resolution via Non-Local Sparse Tensor Factorization" --c 5
 
 Output:
 Loaded 783 papers info.
@@ -141,7 +141,7 @@ PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_On_the_Globa
 ## Find papers by keywords
 
 ```
-**python find_paper_by_words.py super resolution  -c 5**
+python find_paper_by_words.py super resolution  -c 5
 
 Loaded 783 papers info.
 
