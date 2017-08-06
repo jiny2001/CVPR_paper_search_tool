@@ -9,7 +9,7 @@ This project is a sample of building paper vectors and clustering for CVPR 2017 
 
 ## 0. Scraping
 
-Scraping paper info (title, abstract and PDF) from [CVPR open access repositry]().
+Scraping paper info (title, abstract and PDF) from [CVPR open access repositry](http://openaccess.thecvf.com/CVPR2017.py).
 Then extract words to build a corpus. In this project, code for scraping is under crawler directory in Java, (using play framework). 
 
 ```
