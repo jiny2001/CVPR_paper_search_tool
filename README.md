@@ -104,6 +104,72 @@ cluster[5] keywords: [tracking, position, virtual, reality, commodity, vr, exper
 cluster[6] keywords: [tof, material, distortion, classification, depth, time, frequency, flight]
 ```
 
+# How to use
+
+## Find similar papers
+
+```
+**python find_paper_by_paper.py "Hyperspectral Image Super-Resolution via Non-Local Sparse Tensor Factorization" --c 5 **
+
+Output:
+Loaded 783 papers info.
+
+Target: [ Hyperspectral Image Super-Resolution via Non-Local Sparse Tensor Factorization ]
+
+5 Papers found ---
+Score:4.10, [ Hyper-Laplacian Regularized Unidirectional Low-Rank Tensor Recovery for Multispectral Image Denoising ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Chang_Hyper-Laplacian_Regularized_Unidirectional_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Chang_Hyper-Laplacian_Regularized_Unidirectional_CVPR_2017_paper.pdf
+
+Score:5.33, [ A Non-Local Low-Rank Framework for Ultrasound Speckle Reduction ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Zhu_A_Non-Local_Low-Rank_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_A_Non-Local_Low-Rank_CVPR_2017_paper.pdf
+
+Score:6.36, [ Nonnegative Matrix Underapproximation for Robust Multiple Model Fitting ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Tepper_Nonnegative_Matrix_Underapproximation_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Tepper_Nonnegative_Matrix_Underapproximation_CVPR_2017_paper.pdf
+
+Score:6.76, [ Fractal Dimension Invariant Filtering and Its CNN-Based Implementation ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Xu_Fractal_Dimension_Invariant_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Xu_Fractal_Dimension_Invariant_CVPR_2017_paper.pdf
+
+Score:7.64, [ On the Global Geometry of Sphere-Constrained Sparse Blind Deconvolution ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_On_the_Global_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhang_On_the_Global_CVPR_2017_paper.pdf
+```
+
+## Find papers by keywords
+
+```
+**python find_paper_by_words.py super resolution  -c 5**
+
+Loaded 783 papers info.
+
+Keyword(s): ['super', 'resolution']
+
+5 Papers found ---
+Score:14, [ Hyperspectral Image Super-Resolution via Non-Local Sparse Tensor Factorization ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Dian_Hyperspectral_Image_Super-Resolution_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Dian_Hyperspectral_Image_Super-Resolution_CVPR_2017_paper.pdf
+
+Score:12, [ Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf
+
+Score:9, [ Real-Time Video Super-Resolution With Spatio-Temporal Networks and Motion Compensation ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Caballero_Real-Time_Video_Super-Resolution_CVPR_2017_paper.pdf
+
+Score:8, [ Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Lai_Deep_Laplacian_Pyramid_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Lai_Deep_Laplacian_Pyramid_CVPR_2017_paper.pdf
+
+Score:7, [ Simultaneous Super-Resolution and Cross-Modality Synthesis of 3D Medical Images Using Weakly-Supervised Joint Convolutional Sparse Coding ]
+Abstract URL:http://openaccess.thecvf.com/content_cvpr_2017/html/Huang_Simultaneous_Super-Resolution_and_CVPR_2017_paper.html
+PDF URL:http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_Simultaneous_Super-Resolution_and_CVPR_2017_paper.pdf
+```
+
+
 
 
 
