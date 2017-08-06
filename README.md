@@ -27,7 +27,7 @@ Remove people's name (replace one words ending in dot with dot).
 
 ```
 
-The input corpus we built is under [data/CVPR2016](https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/data/CVPR2016) and [data/CVPR2017](https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/data/CVPR2017).
+The input corpus we built is under [data/CVPR2016](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/CVPR2016) and [data/CVPR2017](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/CVPR2017).
 
 
 ## 1. Count all words' occurences and unite corpus files to build a united input corpus.
