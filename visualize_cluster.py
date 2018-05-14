@@ -1,7 +1,7 @@
 import argparse
 
 import helper
-from paper2vec import Paper2Vec
+from paper2vec_trainer import Paper2Vec
 
 parser = argparse.ArgumentParser()
 
@@ -32,7 +32,6 @@ def main(args):
 	p2v.clustering_papers(clusters=args.clusters)
 	helper.plot_with_labels(p2v.paper_vectors, filename=args.data_dir+'/papers_r.png', markers=p2v.paper_cluster_ids,
 	                        perplexity=args.perplexity)
-
 
 if __name__ == '__main__':
 	main(args)

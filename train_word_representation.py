@@ -1,11 +1,12 @@
 import argparse
 from shutil import copyfile
 
-from paper2vec import Paper2Vec
+from paper2vec_trainer import Paper2VecTrainer
 
 parser = argparse.ArgumentParser()
 
 parser.add_argument('data_dir', default='data', type=str, nargs='?', help='directory for data')
+parser.add_argument('model_dir', default='model', type=str, nargs='?', help='directory for model data')
 
 # args for building corpus
 parser.add_argument('-d', '--max_dictionary_words', default=30000, type=int, nargs='?')
@@ -16,7 +17,7 @@ parser.add_argument('-m', '--train_model', default='skipgram', type=str, nargs='
                     help='model for training word representation')
 parser.add_argument('-w', '--word_dim', default=75, type=int, nargs='?', help='dimensions for word representation')
 parser.add_argument('-i', '--min_count', default=10, type=int, nargs='?', help='minimal number of word occurences')
-parser.add_argument('-p', '--paper_dim', default=4, type=int, nargs='?', help='dimensions for paper representation')
+parser.add_argument('-p', '--paper_dim', default=3, type=int, nargs='?', help='dimensions for paper representation')
 parser.add_argument('-x', '--perplexity', default=25, type=int, nargs='?', help='perplexity param for t-SNE')
 parser.add_argument('-c', '--clusters', default=9, type=int, nargs='?', help='number of clusters to be divided')
 
@@ -24,7 +25,7 @@ args = parser.parse_args()
 
 
 def main(args):
-	p2v = Paper2Vec(data_dir=args.data_dir, word_dim=args.word_dim)
+	p2v = Paper2VecTrainer(word_dim=args.word_dim, data_dir=args.data_dir, model_dir=args.model_dir)
 
 	print('\nStep 1: Replaces rare words with UNK token to build a suitable size of dictionary.')
 
@@ -45,7 +46,6 @@ def main(args):
 
 	print('\nStep 3: Train word representation with fasttext.')
 	p2v.train_words_model('corpus.txt', 'fasttext_model', model=args.train_model, min_count=args.min_count)
-
 
 	print('Checking result. Find similar words for...')
 	print('[deep_learning]', p2v.get_most_similar_words('deep_learning', 12))

@@ -6,13 +6,13 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument('title', help='paper\'s title')
 parser.add_argument('-c', '--count', default=5, type=int, nargs='?', help='num of papers to find')
-parser.add_argument('--data_dir', default='data', type=str, nargs='?', help='directory for data')
+parser.add_argument('--model_dir', default='model', type=str, nargs='?', help='directory for data')
 args = parser.parse_args()
 
 
 def main(args):
 
-	p2v = Paper2Vec(data_dir=args.data_dir)
+	p2v = Paper2Vec(model_dir=args.model_dir)
 	p2v.load_paper_vectors()
 
 	paper_id = p2v.find_by_paper_title(args.title)
