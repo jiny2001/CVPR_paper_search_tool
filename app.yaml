@@ -5,6 +5,7 @@ threadsafe: true
 skip_files:
 - data/
 - crawler/
+- .git/
 
 handlers:
 - url: /.*
