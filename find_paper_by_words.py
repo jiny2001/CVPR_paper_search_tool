@@ -25,7 +25,7 @@ def main(args):
 
 	for result in results:
 		# result[0] contains paper id, result[1] contains matching score (larger is better)
-		print('Score:%d, [ %s ]' % (result[1], p2v.paper[result[0]].title))
+		print('ID:%d, Score:%d, [ %s ]' % (result[0], result[1], p2v.paper[result[0]].title))
 		print('Abstract URL:%s' % p2v.paper[result[0]].abstract_url)
 		print('PDF URL:%s\n' % p2v.paper[result[0]].pdf_url)
 

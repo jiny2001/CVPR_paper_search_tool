@@ -112,3 +112,6 @@ ENV/
 
 # pycharm
 \.idea/
+
+
+data/fasttext_model

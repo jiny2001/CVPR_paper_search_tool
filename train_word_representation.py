@@ -29,18 +29,20 @@ def main(args):
 
 	print('\nStep 1: Replaces rare words with UNK token to build a suitable size of dictionary.')
 
-	p2v.add_dictionary_from_file('CVPR2016/corpus.txt')
-	p2v.add_dictionary_from_file('CVPR2017/corpus.txt')
+	# p2v.add_dictionary_from_file('CVPR2016/corpus.txt')
+	# p2v.add_dictionary_from_file('CVPR2017/corpus.txt')
+	p2v.add_dictionary_from_file('ICCV2015/corpus.txt')
+	p2v.add_dictionary_from_file('ICCV2017/corpus.txt')
 	p2v.build_dictionary(args.max_dictionary_words)
 
-	print('Most 20 common words:', p2v.count[:20])
+	print('Check most 20 common words:', p2v.count[:20])
 
 	print('\nStep 2: Detects phrases by their appearance frequency. Then re-build a new corpus.')
 	p2v.detect_phrases(args.phrase_threshold)
 
 	p2v.create_corpus_with_phrases('corpus.txt')
-	p2v.convert_text_with_phrases('CVPR2017/abstract.txt', 'abstract.txt')
-	copyfile(args.data_dir + '/CVPR2017/paper_info.txt', args.data_dir + '/paper_info.txt')
+	p2v.convert_text_with_phrases('ICCV2017/abstract.txt', 'abstract.txt')
+	copyfile(args.data_dir + '/ICCV2017/paper_info.txt', args.data_dir + '/paper_info.txt')
 
 	p2v.create_label('abstract.txt', 'abstract_label.txt')  # don't use this label for now though...
 
@@ -55,7 +57,7 @@ def main(args):
 	print('[object_detection]', p2v.get_most_similar_words('object_detection', 12))
 
 	print('\nStep 4: Build paper representation vectors with fasttext.')
-	p2v.build_paper_vectors()
+	p2v.build_paper_vectors('abstract.txt')
 
 	print('\nStep 5: Reduce dimensions and then apply k-means clustering.')
 	p2v.reduce_paper_vectors_dim(args.paper_dim, perplexity=args.perplexity)

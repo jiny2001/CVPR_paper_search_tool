@@ -1,6 +1,6 @@
 import collections
 
-import fasttext
+import fastText.FastText as fasttext
 import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
@@ -14,14 +14,15 @@ EOP = '<eop>'  # end of paper
 LABEL_PREFIX = '__label__'
 
 
-
 class Paper2VecTrainer(paper2vec.Paper2Vec):
-	def __init__(self, word_dim=100, data_dir='data', model_dir='model'):
+	def __init__(self, word_dim=100, data_dir='data', model_dir='model', title_vector_weight=10.0, title_search_weight=3.0):
 
 		paper2vec.Paper2Vec.__init__(self, model_dir)
 
 		self.word_dim = word_dim
 		self.data_dir = data_dir + '/'
+		self.title_vector_weight = title_vector_weight
+		self.title_search_weight = title_search_weight
 
 		self.words = []
 		self.papers = 0
@@ -189,42 +190,35 @@ class Paper2VecTrainer(paper2vec.Paper2Vec):
 
 		target.close()
 
-	def train_words_model(self, corpus_filename, model_filename, model='skipgram', min_count=5):
+	def train_words_model(self, corpus_filename, model_filename, model='skpigram', min_count=5):
 
 		corpus_filename = self.data_dir + corpus_filename
 		model_filename = self.data_dir + model_filename
 		print('Training for [%s] Model=%s Dim=%d MinCount=%d...' % (corpus_filename, model, self.word_dim, min_count))
 
-		if model == 'skipgram':
-			self.model = fasttext.skipgram(input_file=corpus_filename, output=model_filename, dim=self.word_dim,
-			                               min_count=min_count)
-		elif model == 'cbow':
-			self.model = fasttext.cbow(input_file=corpus_filename, output=model_filename, dim=self.word_dim,
-			                           min_count=min_count)
-		else:
-			print('model param should be cbow or skipgram')
-			return
+		self.model = fasttext.train_unsupervised(input=corpus_filename, model=model, dim=self.word_dim,
+		                                         minCount=min_count)
+		self.model.save_model(model_filename)
+		self.words_list = list(self.model.get_words())
 
-		self.words_list = list(self.model.words)
-
-		print('Finished. Dictionary size:%s' % '{:,}'.format(len(self.model.words)))
+		print('Finished. Dictionary size:%s' % '{:,}'.format(len(self.model.get_words())))
 
 	def load_words_model(self, model_filename):
 
 		model_filename = self.data_dir + model_filename
 		self.model = fasttext.load_model(model_filename + '.bin')
-		self.word_dim = self.model.dim
-		self.words_list = list(self.model.words)
-		print('Loaded. Dictionary size:%s' % '{:,}'.format(len(self.model.words)))
+		self.word_dim = self.model.get_dimension()
+		self.words_list = list(self.model.get_words())
+		print('Loaded. Dictionary size:%s' % '{:,}'.format(len(self.model.get_words())))
 
 	def get_most_similar_words(self, target_word, count):
 
 		# build word-vector array and word-score array
-		target_vector = np.array(self.model[target_word])
-		scores = np.zeros(len(self.model.words))
+		target_vector = np.array(self.model.get_word_vector(target_word))
+		scores = np.zeros(len(self.model.get_words()))
 
 		for i in range(len(self.words_list)):
-			scores[i] = np.mean(np.square(np.array(self.model[self.words_list[i]]) - target_vector))
+			scores[i] = np.mean(np.square(np.array(self.model.get_word_vector(self.words_list[i])) - target_vector))
 
 		# use argpartition() to efficiently sort
 		indices = np.argpartition(scores, count + 1)[:count + 1]
@@ -251,33 +245,40 @@ class Paper2VecTrainer(paper2vec.Paper2Vec):
 		self.paper = self.papers * [None]  # type: list[PaperInfo]
 
 		for i in range(self.papers):
-			self.paper[i] = paper2vec.PaperInfo(paper_info_lines[i * 3], paper_info_lines[i * 3 + 1], paper_info_lines[i * 3 + 2])
+			self.paper[i] = paper2vec.PaperInfo(paper_info_lines[i * 3], paper_info_lines[i * 3 + 1],
+			                                    paper_info_lines[i * 3 + 2])
 
-	def build_paper_vectors(self):
+	def build_paper_vectors(self, input_filename):
 
 		self.load_paper_info()
 
 		# load paper abstract and build paper representation vector
-		abstract_words = helper.read_words(self.data_dir + '/abstract.txt')
+		abstract_words = helper.read_words(self.data_dir + input_filename)
 
 		self.paper_vectors = np.zeros([self.papers, self.word_dim])
 		papers = 0
 		vectors = 0
+		vector_weight = self.title_vector_weight  # set larger weight for paper title
+		search_weight = self.title_search_weight
 
 		for word in abstract_words:
 			if word == EOS:
+				vector_weight = 1  # reset weight for abstract
+				search_weight = 1
 				pass
 			elif word == EOP:
 				self.paper_vectors[papers] /= vectors
 				papers += 1
 				vectors = 0
+				vector_weight = self.title_vector_weight  # set weight for paper title (1st line of abstarct)
+				search_weight = self.title_search_weight
 			else:
-				self.paper_vectors[papers] += self.model[word]
-				vectors += 1
+				self.paper_vectors[papers] += self.model.get_word_vector(word) * vector_weight
+				vectors += vector_weight
 				if word in self.paper[papers].abstract_freq:
-					self.paper[papers].abstract_freq[word] = self.paper[papers].abstract_freq[word] + 1
+					self.paper[papers].abstract_freq[word] = self.paper[papers].abstract_freq[word] + search_weight
 				else:
-					self.paper[papers].abstract_freq[word] = 1
+					self.paper[papers].abstract_freq[word] = search_weight
 
 	def reduce_paper_vectors_dim(self, new_dim, perplexity=5, n_iter=2000):
 
@@ -300,4 +301,3 @@ class Paper2VecTrainer(paper2vec.Paper2Vec):
 					abstract = helper.merge_dictionary(abstract, self.paper[i].abstract_freq)
 
 			self.cluster_abstract_freq.append(sorted(abstract.items(), key=lambda x: x[1], reverse=True))
-

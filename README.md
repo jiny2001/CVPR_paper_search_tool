@@ -1,39 +1,40 @@
-# Paper2Vec - Automatic clustering and search tool for CVPR2017 Papers 
-Automatic clustering and search tools for CVPR2017 papers by using fastest from Facebook Research
+# Paper2Vec - Automatic clustering and search tool for ICCV2017 / CVPR2018 Papers
+Automatic clustering and search tools for CVPR papers by using fastest from Facebook Research
 
 ## Overview
 
-This project is a sample of building paper vectors and clustering for CVPR 2017 papers. Previouslly I used word2vec and this one is for [fasttext]() from [Facebook Research]().
+[ICCV Paper Search Tool](https://iccv2017-paper-search-tool.appspot.com/) is now working on GAE/p!
+
+This project is a sample of building sentence vectors and clustering for CVPR papers. Previously I used word2vec and this one is for [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/).
 
 # Steps
 
 ## 0. Scraping
 
-Scraping paper info (title, abstract and PDF) from [CVPR open access repositry](http://openaccess.thecvf.com/CVPR2017.py).
-Then extract words to build a corpus. In this project, code for scraping is under crawler directory in Java, (using play framework). 
+Scraping paper info (title, abstract and PDF) from [CVPR open access repository](http://openaccess.thecvf.com/CVPR2017.py).
+Then extracts words to build a corpus. Scraping HTML/PDF is a little off-topic for this sample, so I deleted those scraping code from this repository.
 
 ```
-After exstracting text from each PDF, roufgly do below processes.
+After extracting text from each PDF, we processes roughly like below.
 
-Remove "-" with "/n" to cocatnate words divided on end line.
+Remove "-" with "/n" to concatenate words divided by CR.
 Then replace "-" with " ".
 Replace all other non character codes with " "
-Convert all charachters to small capital.
+Convert all capital to small.
 
 Remove "one character word", (http, https and ftp urls), the, an in, on, and, of to, is, for, we, with, as, that, are, by, our, this, from, be, ca, at, us, it, has, have, been, do, does, these, those, and "et al".
 Replace popular plural noun to singular noun.
-
-Remove people's name (replace one words ending in dot with dot).
+Remove people's name.
 
 ```
 
-The input corpus we built is under [data/CVPR2016](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/CVPR2016) and [data/CVPR2017](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/CVPR2017).
+The input corpus we built is under [data](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/CVPR2016) and [data/CVPR2017](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/).
 
 
-## 1. Count all words' occurences and unite corpus files to build a united input corpus.
+## 1. Count all words' occurrences and unite multiple corpus files to one input corpus file.
 
 Build my Paper2Vec instance. Load multiple corpus files.
-And then Replaces rare words with UNK token to build a suitable size of dictionary.
+Replace rare words with UNK token to build a suitable size of dictionary.
 
 ```
 p2v = Paper2Vec(data_dir=args.data_dir, word_dim=args.word_dim)
@@ -44,8 +45,8 @@ p2v.build_dictionary(args.max_dictionary_words)
 
 ## 2. Detects phrases by their appearance frequency. Then re-build a new corpus.
 
-Count occurences of words sequence. Unite frequent sequence words with "_".
-For ex "deep learning" is now one word, "deep_learning".
+Count occurrences of words sequence. Unite frequent sequence words with "_".
+For ex "deep learning" will be now one word, "deep_learning".
 
 ```
 p2v.detect_phrases(args.phrase_threshold)
