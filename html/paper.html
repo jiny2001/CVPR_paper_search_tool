@@ -9,9 +9,10 @@
           integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
 
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
 
-    <title>ICCV2017 Paper Search Tool</title>
+    <title>{{ title }} Paper Search Tool</title>
 </head>
 <body>
 
@@ -19,11 +20,12 @@
 <nav class="navbar navbar-light bg-light">
 
     <div class="col text-left">
-    <span class="navbar-brand mb-0 h1">ICCV2017 Paper Search Tool</span></div>
+        <span class="navbar-brand mb-0 h1">{{ title }} Paper Search Tool</span> <a
+            href="https://github.com/jiny2001/CVPR_paper_search_tool"><i class="fab fa-github"></i> github</a></div>
     <div class="col text-right">
-        <a href="#collapseExplain" class="text-secondary" data-toggle="collapse" data-target="#collapseExplain" aria-expanded="false" aria-controls="collapseExplain">
-        <i class="fas fa-arrow-circle-right"></i> What is ICCV2017 Paper Search Tool? <a
-            href="https://github.com/jiny2001/CVPR_paper_search_tool">[github]</a></a>
+        <a href="#collapseExplain" class="text-secondary" data-toggle="collapse" data-target="#collapseExplain"
+           aria-expanded="false" aria-controls="collapseExplain">
+            <i class="fas fa-arrow-circle-right"></i> What is {{ title }} Paper Search Tool?</a>
     </div>
 </nav>
 
@@ -45,28 +47,28 @@
     </p>
     <hr>
     <p class="text-right mb-0"><i class="fas fa-check"></i> This page is hosted by <a href="https://cloud.google.com/appengine/docs/python/">Google App Engine</a> by free and the source code is <a
-            href="https://github.com/jiny2001/CVPR_paper_search_tool">in github!</a></p>
+            href="https://github.com/jiny2001/CVPR_paper_search_tool"><i class="fab fa-github"></i> in github!</a></p>
 </div>
 </div>
 </div>
 
-<!-- Form for input keywords -->
 <div class="p-5">
-    <form action="/" method="POST">
-        <div class="form-group row">
-            <label for="keywords" class="col-form-label">Keywords</label>
-            <div class="col-sm-9">
-                <input type="text" class="form-control" name="keywords" id="keywords" aria-describedby="keywords"
-                       placeholder="E.g., [object detection] or [transfer learning], [super resolution]">
-            </div>
-            <button type="submit" class="btn btn-primary">Search</button>
+
+    <p><a href="/" class="btn btn-primary"><< Back to find by keywords</a></p>
+
+    <p>
+    <div class="card bg-dark text-white">
+        <h5 class="card-header"> "{{ paper.title }}" </h5>
+        <div class="card-body">
+            <a href="{{ paper.abstract_url }}" target="_blank" class="btn btn-sm btn-light"><i class="fas fa-file-alt"></i> Check abstract</a>
+            <a href="{{ paper.pdf_url }}" target="_blank" class="btn btn-sm btn-light"><i class="fas fa-file-pdf"></i> Open PDF</a>
         </div>
-    </form>
-    <hr/>
+    </div>
+    </p>
 
     <!-- Messages -->
     {% if message is not none %}
-    <div class="alert alert-primary" role="alert">{{ message }}</div>
+    <h5>Most 5 similar papers >></h5>
     <hr/>
     {% endif %}
 
@@ -74,11 +76,11 @@
     {% for paper in searchResult %}
     <p>
     <div class="card">
-        <h5 class="card-header"><span class="text-muted">[{{ paper.score }}]</span> {{ paper.title }}</h5>
+        <h5 class="card-header"><span class="text-muted">[{{ paper.score }}]</span> "{{ paper.title }}" </h5>
         <div class="card-body">
-            <a href="{{ paper.abstract_url }}" target="_blank" class="btn btn-sm btn-light">Check abstract</a>
-            <a href="{{ paper.pdf_url }}" target="_blank" class="btn btn-sm btn-light">Open PDF</a>
-            <a href="/find_similar_paper?paper_id={{ paper.id }}" class="btn btn-sm btn-light">Find similar paper</a>
+            <a href="{{ paper.abstract_url }}" target="_blank" class="btn btn-sm btn-light"><i class="fas fa-file-alt"></i> Check abstract</a>
+            <a href="{{ paper.pdf_url }}" target="_blank" class="btn btn-sm btn-light"><i class="fas fa-file-pdf"></i> Open PDF</a>
+            <a href="/find_similar_paper?paper_id={{ paper.id }}" class="btn btn-sm btn-light"><i class="fas fa-angle-double-right"></i> Find similar paper</a>
         </div>
     </div>
     {% endfor %}

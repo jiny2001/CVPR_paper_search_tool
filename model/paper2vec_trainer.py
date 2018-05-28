@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 from sklearn.manifold import TSNE
 
-import helper
+from paper2vec import helper
 import paper2vec
 
 UNK = 'UNK'  # unknown words (rare words)
@@ -15,7 +15,7 @@ LABEL_PREFIX = '__label__'
 
 
 class Paper2VecTrainer(paper2vec.Paper2Vec):
-	def __init__(self, word_dim=100, data_dir='data', model_dir='model', title_vector_weight=10.0, title_search_weight=3.0):
+	def __init__(self, word_dim=100, data_dir='raw_data', model_dir='data', title_vector_weight=10.0, title_search_weight=3.0):
 
 		paper2vec.Paper2Vec.__init__(self, model_dir)
 

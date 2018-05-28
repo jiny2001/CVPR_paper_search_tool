@@ -1,8 +1,9 @@
 import os
 import jinja2
 import webapp2
-import paper2vec
+from model.paper2vec import Paper2Vec
 
+PAGE_TITLE = "ICCV2017"
 
 JINJA_ENVIRONMENT = jinja2.Environment(
 	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),
@@ -28,10 +29,11 @@ class MainPage(BaseHandler):
 
 	def get(self):
 		values = {
+			'title': PAGE_TITLE,
 			'searchResult': [],
 			'message': None
 		}
-		self.render("main.html", values)
+		self.render("html/main.html", values)
 
 	def post(self):
 		keywords_text = self.request.get('keywords')
@@ -55,11 +57,12 @@ class MainPage(BaseHandler):
 		else:
 			message = "No papers found. [ " + keywords_text +" ]"
 		values = {
+			'title': PAGE_TITLE,
 			'searchResult': paperSearchResult,
 			'message': message
 		}
 
-		self.render("main.html", values)
+		self.render("html/main.html", values)
 
 class FindSimilarPaperPage(BaseHandler):
 
@@ -85,13 +88,14 @@ class FindSimilarPaperPage(BaseHandler):
 			paperSearchResult.append(paperInfo)
 
 		values = {
+			'title': PAGE_TITLE,
 			'paper': target,
 			'searchResult':paperSearchResult
 		}
-		self.render("paper.html", values)
+		self.render("html/paper.html", values)
 
 
-p2v = paper2vec.Paper2Vec("model/")
+p2v = Paper2Vec("data")
 p2v.load_paper_vectors()
 
 app = webapp2.WSGIApplication([

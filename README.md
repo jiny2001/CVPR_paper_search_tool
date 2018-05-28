@@ -5,17 +5,17 @@ Automatic clustering and search tools for CVPR papers by using fastest from Face
 
 [ICCV Paper Search Tool](https://iccv2017-paper-search-tool.appspot.com/) is now working on GAE/p!
 
-This project is a sample of building sentence vectors and clustering for CVPR papers. Previously I used word2vec and this one is for [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/).
+This project is a sample of building sentence vectors and clustering for CVPR papers. Previously I used word2vec but this one is for [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/).
 
 # Steps
 
 ## 0. Scraping
 
-Scraping paper info (title, abstract and PDF) from [CVPR open access repository](http://openaccess.thecvf.com/CVPR2017.py).
-Then extracts words to build a corpus. Scraping HTML/PDF is a little off-topic for this sample, so I deleted those scraping code from this repository.
+Scrape paper info (title, abstract and PDF) from [CVPR open access repository](http://openaccess.thecvf.com/CVPR2017.py).
+Then extracts words to build a corpus. Scraping HTML/PDF is a little off-topic for this sample, so I removed those scraping code from this repository.
 
 ```
-After extracting text from each PDF, we processes roughly like below.
+After extracting text from each PDF, we pre-processes like below.
 
 Remove "-" with "/n" to concatenate words divided by CR.
 Then replace "-" with " ".

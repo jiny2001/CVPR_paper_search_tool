@@ -3,9 +3,9 @@ api_version: 1
 threadsafe: true
 
 skip_files:
-- data/
-- crawler/
+- raw_data/
 - .git/
+- .gitignore
 
 handlers:
 - url: /.*

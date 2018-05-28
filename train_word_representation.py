@@ -1,12 +1,13 @@
 import argparse
 from shutil import copyfile
 
-from paper2vec_trainer import Paper2VecTrainer
+from model import matplot_helper
+from model.paper2vec_trainer import Paper2VecTrainer
 
 parser = argparse.ArgumentParser()
 
-parser.add_argument('data_dir', default='data', type=str, nargs='?', help='directory for data')
-parser.add_argument('model_dir', default='model', type=str, nargs='?', help='directory for model data')
+parser.add_argument('data_dir', default='raw_data', type=str, nargs='?', help='directory for data')
+parser.add_argument('model_dir', default='data', type=str, nargs='?', help='directory for data data')
 
 # args for building corpus
 parser.add_argument('-d', '--max_dictionary_words', default=30000, type=int, nargs='?')
@@ -14,7 +15,7 @@ parser.add_argument('-t', '--phrase_threshold', default=1000, type=int, nargs='?
 
 # args for training / clustering
 parser.add_argument('-m', '--train_model', default='skipgram', type=str, nargs='?',
-                    help='model for training word representation')
+                    help='data for training word representation')
 parser.add_argument('-w', '--word_dim', default=75, type=int, nargs='?', help='dimensions for word representation')
 parser.add_argument('-i', '--min_count', default=10, type=int, nargs='?', help='minimal number of word occurences')
 parser.add_argument('-p', '--paper_dim', default=3, type=int, nargs='?', help='dimensions for paper representation')
@@ -64,8 +65,16 @@ def main(args):
 	p2v.clustering_papers(clusters=args.clusters)
 	for i in range(args.clusters):
 		print('cluster[%d] keywords:' % i, p2v.cluster_abstract_freq[i][:15])
+	matplot_helper.plot_with_labels(p2v.paper_vectors, filename=args.data_dir + '/papers.png',
+	                                markers=p2v.paper_cluster_ids, perplexity=args.perplexity)
 
 	p2v.save_paper_vectors()
+
+	print('\nStep (6): Reduce dimensions to 2D and visualize it.')
+	p2v.reduce_paper_vectors_dim(2, perplexity=args.perplexity)
+	p2v.clustering_papers(clusters=args.clusters)
+	matplot_helper.plot_with_labels(p2v.paper_vectors, filename=args.data_dir + '/papers_2d.png',
+	                                markers=p2v.paper_cluster_ids, perplexity=args.perplexity)
 
 
 if __name__ == '__main__':

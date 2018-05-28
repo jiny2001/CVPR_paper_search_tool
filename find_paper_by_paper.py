@@ -1,12 +1,12 @@
 import argparse
 
-from paper2vec import Paper2Vec
+from model.paper2vec import Paper2Vec
 
 parser = argparse.ArgumentParser()
 
 parser.add_argument('title', help='paper\'s title')
 parser.add_argument('-c', '--count', default=5, type=int, nargs='?', help='num of papers to find')
-parser.add_argument('--model_dir', default='model', type=str, nargs='?', help='directory for data')
+parser.add_argument('--model_dir', default='data', type=str, nargs='?', help='directory for data')
 args = parser.parse_args()
 
 
