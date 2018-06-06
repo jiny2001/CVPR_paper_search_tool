@@ -6,7 +6,6 @@ raw_data/*.txt
 raw_data/*.bin
 raw_data/*.vec
 raw_data/*.pkl
-raw_data/*.png
 
 
 raw_data/fasttext_model
