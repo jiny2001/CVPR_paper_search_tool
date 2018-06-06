@@ -2,12 +2,21 @@
 
 Automatic document clustering and search tools for ICCV / CVPR papers by using [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/)
 
-<img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/raw_data/screen.png">
-
 [ICCV2017 Paper Search Tool >>](https://iccv2017-paper-search-tool.appspot.com/)
 
 [CVPR2018 Paper Search Tool >>](https://cvpr2018-paper-search-tool.appspot.com/) 
 
+<img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/raw_data/screen.png">
+
+
+## Features
+
+- Build word/phrase dataset by text corpus
+- Train word embedding vector by fasttext
+- Build dcoument vector and reduce data dimension
+- Clusterize and visualize each document
+- Search Document by keywords
+- Find Document by similar Document
 
 # Steps
 
@@ -17,7 +26,7 @@ Scrape paper info (title, abstract and PDF) from [CVPR open access repository](h
 Then extracts words to build a corpus. Scraping HTML/PDF is a little off-topic for this sample, so I removed those scraping code from this repository.
 
 ```
-After extracting text from each PDF, we pre-processes like below.
+After extracting text from each PDF, we pre-processes the data like below.
 
 Remove "-" with "/n" to concatenate words divided by CR.
 Then replace "-" with " ".
