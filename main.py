@@ -5,7 +5,7 @@ import webapp2
 
 from model.paper2vec import Paper2Vec
 
-PAGE_TITLE = "ICCV2017"
+PAGE_TITLE = "CVPR2018"
 
 JINJA_ENVIRONMENT = jinja2.Environment(
 	loader=jinja2.FileSystemLoader(os.path.dirname(__file__)),

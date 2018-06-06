@@ -1,11 +1,11 @@
-# Paper2Vec - Automatic clustering and search tool for ICCV2017 / CVPR2018 Papers
-Automatic clustering and search tools for CVPR papers by using fastest from Facebook Research
+# Paper2Vec - Automatic document clustering and search tool for ICCV2017 / CVPR2018 Papers
 
-## Overview
+Automatic document clustering and search tools for ICCV / CVPR papers by using [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/)
 
-[ICCV Paper Search Tool](https://iccv2017-paper-search-tool.appspot.com/) is now working on GAE/p!
+<img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/raw_data/screen.png">
 
-This project is a sample of building sentence vectors and clustering for CVPR papers. Previously I used word2vec but this one is for [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/).
+[ICCV2017 Paper Search Tool](https://iccv2017-paper-search-tool.appspot.com/) and [CVPR2018 Paper Search Tool](https://cvpr2018-paper-search-tool.appspot.com/) are now working on GAE/p!
+
 
 # Steps
 
@@ -81,13 +81,9 @@ p2v.build_paper_vectors()
 
 Reduce 75-dim of paper vector into 2-dim by using t-SNE.
 
-<img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/sample/papers.png" width="600">
+<img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/raw_data/papers.png" width="600">
 
-Apply t-SNE again to enforce clustering.
-
-<img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/sample/papers_r.png" width="600">
-
-After those papers are clusterized, pick frequently used words in title and abstract.
+After clustering those papers, pick frequently used words in their title and abstract.
 
 ```
 cluster[0] keywords: [question, over, representations, visual, vqa, scene, structure answering]
