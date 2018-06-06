@@ -1,10 +1,12 @@
-# Paper2Vec - Automatic document clustering and search tool for ICCV2017 / CVPR2018 Papers
+# [Paper2Vec - Automatic document clustering and search tool](https://cvpr2018-paper-search-tool.appspot.com/)
 
 Automatic document clustering and search tools for ICCV / CVPR papers by using [fasttext](https://research.fb.com/fasttext/) from [Facebook Research](https://research.fb.com/)
 
 <img src="https://raw.githubusercontent.com/jiny2001/CVPR_paper_search_tool/master/raw_data/screen.png">
 
-[ICCV2017 Paper Search Tool](https://iccv2017-paper-search-tool.appspot.com/) and [CVPR2018 Paper Search Tool](https://cvpr2018-paper-search-tool.appspot.com/) are now working on GAE/p!
+[ICCV2017 Paper Search Tool >>](https://iccv2017-paper-search-tool.appspot.com/)
+
+[CVPR2018 Paper Search Tool >>](https://cvpr2018-paper-search-tool.appspot.com/) 
 
 
 # Steps
