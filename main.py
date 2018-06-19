@@ -12,13 +12,12 @@ JINJA_ENVIRONMENT = jinja2.Environment(
 	extensions=['jinja2.ext.autoescape'],
 	autoescape=True)
 
-
 class PaperSearchResults():
 
 	def __init__(self, id, score, title, abstract_url, pdf_url):
 		self.id = id
 		self.score = int(score)
-		self.title = title
+		self.title = unicode(title, 'utf-8', errors='replace')
 		self.abstract_url = abstract_url
 		self.pdf_url = pdf_url
 

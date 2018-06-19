@@ -27,22 +27,18 @@ Automatic document clustering and search tools for ICCV / CVPR papers by using [
 Scrape paper info (title, abstract and PDF) from [CVPR open access repository](http://openaccess.thecvf.com/CVPR2017.py).
 Then extracts words to build a corpus. Scraping HTML/PDF is a little off-topic for this sample, so I removed those scraping code from this repository.
 
-```
 After extracting text from each PDF, we pre-processes the data like below.
 
-Remove "-" with "/n" to concatenate words divided by CR.
-Then replace "-" with " ".
-Replace all other non character codes with " "
-Convert all capital to small.
+* Remove "-" with "/n" to concatenate words divided by CR.
+* Then replace "-" with " ".
+* Replace all other non character codes with " "
+* Convert all capital to small.
+* Remove "one character word" and special words like "http/https/ftp" or urls
+* Remove the, an in, on, and, of to, is, for, we, with, as, that, are, by, our, this, from, be, ca, at, us, it, has, have, been, do, does, these, those, and "et al".
+* Replace popular plural noun to singular noun.
+* Remove people's name.
 
-Remove "one character word", (http, https and ftp urls), the, an in, on, and, of to, is, for, we, with, as, that, are, by, our, this, from, be, ca, at, us, it, has, have, been, do, does, these, those, and "et al".
-Replace popular plural noun to singular noun.
-Remove people's name.
-
-```
-
-The input corpus we built is under [data](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/CVPR2016) and [data/CVPR2017](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/data/).
-
+The input corpus we built is placed under [raw_data](https://github.com/jiny2001/CVPR_paper_search_tool/tree/master/raw_data)
 
 ## 1. Count all words' occurrences and unite multiple corpus files to one input corpus file.
 
@@ -53,6 +49,7 @@ Replace rare words with UNK token to build a suitable size of dictionary.
 p2v = Paper2Vec(data_dir=args.data_dir, word_dim=args.word_dim)
 p2v.add_dictionary_from_file('CVPR2016/corpus.txt')
 p2v.add_dictionary_from_file('CVPR2017/corpus.txt')
+p2v.add_dictionary_from_file('CVPR2018/corpus.txt')
 p2v.build_dictionary(args.max_dictionary_words)
 ```
 
@@ -65,9 +62,8 @@ For ex "deep learning" will be now one word, "deep_learning".
 p2v.detect_phrases(args.phrase_threshold)
 
 p2v.create_corpus_with_phrases('corpus.txt')
-p2v.convert_text_with_phrases('CVPR2017/abstract.txt', 'abstract.txt')
-copyfile(args.data_dir + '/CVPR2017/paper_info.txt', args.data_dir + '/paper_info.txt')
-
+p2v.convert_text_with_phrases('CVPR2018/abstract.txt', 'abstract.txt')
+copyfile(args.data_dir + '/CVPR2018/paper_info.txt', args.data_dir + '/paper_info.txt')
 ```
 
 ## 3. Train word representation with fasttext.
