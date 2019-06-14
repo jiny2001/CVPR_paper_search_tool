@@ -33,6 +33,7 @@ def main(args):
 	p2v.add_dictionary_from_file('CVPR2016/corpus.txt')
 	p2v.add_dictionary_from_file('CVPR2017/corpus.txt')
 	p2v.add_dictionary_from_file('CVPR2018/corpus.txt')
+	p2v.add_dictionary_from_file('CVPR2019/corpus.txt')
 	# p2v.add_dictionary_from_file('ICCV2015/corpus.txt')
 	# p2v.add_dictionary_from_file('ICCV2017/corpus.txt')
 	p2v.build_dictionary(args.max_dictionary_words)
@@ -43,8 +44,8 @@ def main(args):
 	p2v.detect_phrases(args.phrase_threshold)
 
 	p2v.create_corpus_with_phrases('corpus.txt')
-	p2v.convert_text_with_phrases('CVPR2018/abstract.txt', 'abstract.txt')
-	copyfile(args.data_dir + '/CVPR2018/paper_info.txt', args.data_dir + '/paper_info.txt')
+	p2v.convert_text_with_phrases('CVPR2019/abstract.txt', 'abstract.txt')
+	copyfile(args.data_dir + '/CVPR2019/paper_info.txt', args.data_dir + '/paper_info.txt')
 
 	p2v.create_label('abstract.txt', 'abstract_label.txt')  # don't use this label for now though...
 

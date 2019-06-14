@@ -94,8 +94,8 @@ class Paper2Vec:
 				if keyword in self.paper[i].abstract_freq:
 					keyword_score += self.paper[i].abstract_freq[keyword]
 				if find_word(keyword)(self.paper[i].title_for_search):
-					keyword_score +=1
-				if keyword_score <=0:
+					keyword_score += 1
+				if keyword_score <= 0:
 					scores[i] = 0
 					break
 				else:
